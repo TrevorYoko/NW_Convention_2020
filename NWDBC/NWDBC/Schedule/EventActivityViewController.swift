@@ -91,9 +91,6 @@ class EventActivityViewController: UITableViewController {
                         }
                     }
                     
-                    if roomIds.contains(12) || roomIds.contains(13) || roomIds.contains(14) || roomIds.contains(15) || roomIds.contains(20) {
-                        roomNameString.append(" (2nd Floor)")
-                    }
                     
                     cell.textLabel?.text = roomNameString
                     cell.textLabel?.numberOfLines = 0
@@ -125,15 +122,15 @@ class EventActivityViewController: UITableViewController {
         if sanitizedRow == 0 {
             // Do Nothing
         } else if sanitizedRow == 1 {
-            if eventInfo.id == 8 {
-                //Early morning
-                self.navigationController?.pushViewController(OasajiViewController.init(type: .sofu), animated: true)
-            } else if eventInfo.id == 13{
-                //Opening service
-                self.navigationController?.pushViewController(OpeningServiceViewController.init(), animated: true)
-            } else if eventInfo.id == 38{
-                //Early morning
-                self.navigationController?.pushViewController(OasajiViewController.init(type: .gyofu), animated: true)
+            if eventInfo.id == 4 {
+                //Wednesday Service
+                self.navigationController?.pushViewController(BCAMinistrersServiceViewController.init(), animated: true)
+            } else if eventInfo.id == 10{
+                //Thursday Service
+                self.navigationController?.pushViewController(BCAMinistrersMorningServiceViewController.init(), animated: true)
+            } else if eventInfo.id == 23{
+                //Friday Service
+                self.navigationController?.pushViewController(BCANCOpeningServiceViewController.init(), animated: true)
             } else if eventInfo.id == 44{
                 //Closing service
                 self.navigationController?.pushViewController(ClosingServiceViewController.init(), animated: true)

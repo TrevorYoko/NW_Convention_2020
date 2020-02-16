@@ -93,7 +93,7 @@ class MoreViewController: UITableViewController, UIDocumentInteractionController
             self.navigationController?.pushViewController(CommitteeViewController.init(), animated: true)
             break
         case MoreRows.advertisements.rawValue:
-            let path = Bundle.main.path(forResource: "Advertisements", ofType: "pdf")!
+            let path = Bundle.main.path(forResource: "Advertisements2020", ofType: "pdf")!
             let documentController = UIDocumentInteractionController.init(url: URL.init(fileURLWithPath: path))
             documentController.delegate = self
             documentController.presentPreview(animated: true)

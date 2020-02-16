@@ -1,460 +1,866 @@
 {
-    "events": [
-               {
-                    "type" : 1,
-                    "id" : 1,
-                    "start" : "2019-02-15T16:00:00-08:00",
-                    "end" : "2019-02-15T21:00:00-08:00",
-                    "title" : "Registration / Check-In",
-                    "description" : "Please come check-in and get your name tag, prgram booklet, and sign up for banquet seating.  Seattle Betsuin Buddhist Temple welcomes you to the 73rd Annual Northwest District Buddhist Convention and Buddhist Churches of America National Council Meeting.",
-                    "roomIds" : [2],
-                    "link" : "www.test.com"
-               },
-               {
-                    "type" : 1,
-                    "id" : 45,
-                    "start" : "2019-02-15T16:00:00-08:00",
-                    "end" : "2019-02-15T21:00:00-08:00",
-                    "title" : "Snack Bar",
-                    "roomIds" : [21]
-               },
-               {
-                    "type" : 5,
-                    "id" : 2,
-                    "start" : "2019-02-15T16:00:00-08:00",
-                    "end" : "2019-02-15T19:00:00-08:00",
-                    "title" : "NW District Ministers Meeting",
-                    "roomIds" : [12]
-               },
-               {
-                    "type" : 5,
-                    "id" : 3,
-                    "start" : "2019-02-15T17:00:00-08:00",
-                    "end" : "2019-02-15T19:00:00-08:00",
-                    "title" : "Communications Meeting",
-                    "roomIds" : [9]
-               },
-               {
-                    "type" : 1,
-                    "id" : 4,
-                    "start" : "2019-02-15T17:00:00-08:00",
-                    "end" : "2019-02-15T21:00:00-08:00",
-                    "title" : "BWA Sales",
-                    "roomIds" : [7]
-               },
-               {
-                    "type" : 1,
-                    "id" : 46,
-                    "start" : "2019-02-15T19:00:00-08:00",
-                    "end" : "2019-02-15T20:00:00-08:00",
-                    "title" : "Meditation",
-                    "roomIds" : [3]
-               },
-               {
-                    "type" : 5,
-                    "id" : 5,
-                    "start" : "2019-02-15T19:00:00-08:00",
-                    "end" : "2019-02-15T21:00:00-08:00",
-                    "title" : "NW District Council Meeting",
-                    "roomIds" : [4, 5]
-               },
-               {
-                    "type" : 1,
-                    "id" : 6,
-                    "start" : "2019-02-15T19:00:00-08:00",
-                    "end" : "2019-02-15T22:00:00-08:00",
-                    "title" : "Hospitality Room",
-                    "description" : "Come join the rest of the attendees for some drinks and snacks. We have an assortment of cocktails, beers, juices, and soda as well as many snacks, many made from our members. Don't get too wild though, we have lot of activities tomorrow that you won't want to miss. Please drink responsibly.",
-                    "roomIds" : [20, 14, 15]
-               },
-               {
-                    "type" : 1,
-                    "id" : 7,
-                    "start" : "2019-02-15T19:00:00-08:00",
-                    "end" : "2019-02-15T21:00:00-08:00",
-                    "title" : "Game Night",
-                    "roomIds" : [16, 17]
-               },
-               {
-                    "type" : 2,
-                    "id" : 8,
-                    "start" : "2019-02-16T07:00:00-08:00",
-                    "end" : "2019-02-16T07:45:00-08:00",
-                    "title" : "Oasaji - Early Morning Gathering Shoshinge-Sofu",
-                    "roomIds" : [8]
-               },
-               {
-                    "type" : 1,
-                    "id" : 9,
-                    "start" : "2019-02-16T07:30:00-08:00",
-                    "end" : "2019-02-16T09:00:00-08:00",
-                    "title" : "Registration",
-                    "roomIds" : [2]
-               },
-               {
-                    "type" : 5,
-                    "id" : 11,
-                    "start" : "2019-02-16T07:30:00-08:00",
-                    "end" : "2019-02-16T08:30:00-08:00",
-                    "title" : "BWA Representatives' Meeting",
-                    "roomIds" : [16, 17]
-               },
-               {
-                    "type" : 1,
-                    "id" : 10,
-                    "start" : "2019-02-16T07:30:00-08:00",
-                    "end" : "2019-02-16T08:30:00-08:00",
-                    "title" : "BWA Sales",
-                    "roomIds" : [7]
-               },
-               {
-                    "type" : 6,
-                    "id" : 12,
-                    "start" : "2019-02-16T08:30:00-08:00",
-                    "end" : "2019-02-16T09:00:00-08:00",
-                    "title" : "Oshoko - Incense Offering",
-                    "roomIds" : [3, 8, 19]
-               },
-               {
-                    "type" : 6,
-                    "id" : 47,
-                    "start" : "2019-02-16T08:30:00-08:00",
-                    "end" : "2019-02-16T09:00:00-08:00",
-                    "title" : "Live Music by Don & Judy Gardner",
-                    "roomIds" : [3, 8, 19]
-               },
-               {
-                    "type" : 2,
-                    "id" : 13,
-                    "start" : "2019-02-16T09:00:00-08:00",
-                    "end" : "2019-02-16T09:45:00-08:00",
-                    "title" : "Opening Service",
-                    "description" : "8:30 am Oshōko and Live Music by Don & Judy Gardner\n9:00 am Service and closing Keynote\nMinisters and Ministers Assistants, please assemble in Ballroom Foyer at 8:30 am",
-                    "roomIds" : [3, 8, 19]
-               },
-               {
-                    "type" : 1,
-                    "id" : 52,
-                    "start" : "2019-02-16T09:45:00-08:00",
-                    "title" : "Dharma School Children are dismissed*",
-                    "description" : "*Parent/Guardians please escort children",
-                    "roomIds" : [10]
-               },
-               {
-                    "type" : 4,
-                    "id" : 14,
-                    "start" : "2019-02-16T10:00:00-08:00",
-                    "end" : "2019-02-16T10:30:00-08:00",
-                    "title" : "Keynote: Compassion, Gratitude, Community",
-                    "roomIds" : [3, 8, 19],
-                    "description" : "Compassion, Gratitude, Community",
-                    "speakerIds" : [1]
-               },
-               {
-                    "type" : 1,
-                    "id" : 15,
-                    "start" : "2019-02-16T10:40:00-08:00",
-                    "end" : "2019-02-16T11:30:00-08:00",
-                    "title" : "Plenary Speaker",
-                    "roomIds" : [3, 8, 19],
-                    "speakerIds" : [3]
-               },
-               {
-                    "type" : 1,
-                    "id" : 16,
-                    "start" : "2019-02-16T11:30:00-08:00",
-                    "end" : "2019-02-16T12:35:00-08:00",
-                    "title" : "Lunch",
-                    "roomIds" : [22]
-               },
-               {
-                    "type" : 1,
-                    "id" : 17,
-                    "start" : "2019-02-16T11:30:00-08:00",
-                    "end" : "2019-02-16T12:35:00-08:00",
-                    "title" : "BWA Sales",
-                    "roomIds" : [7]
-               },
-               {
-                    "type" : 5,
-                    "id" : 18,
-                    "start" : "2019-02-16T11:30:00-08:00",
-                    "end" : "2019-02-16T12:35:00-08:00",
-                    "title" : "NW YBL Meeting",
-                    "roomIds" : [16, 17]
-               },
-               {
-                    "type" : 5,
-                    "id" : 19,
-                    "start" : "2019-02-16T11:30:00-08:00",
-                    "end" : "2019-02-16T12:35:00-08:00",
-                    "title" : "YABA Meeting",
-                    "roomIds" : [20]
-               },
-               {
-                    "type" : 3,
-                    "id" : 20,
-                    "start" : "2019-02-16T12:45:00-08:00",
-                    "end" : "2019-02-16T13:45:00-08:00",
-                    "title" : "Adult I: Don't Miss the Ocean for the Waves - LGBTQ+ and Buddhism",
-                    "roomIds" : [3],
-                    "description" : "Join us for an enlightening and stimulating conversation regarding how our community can share common compassion for those different from us, gratitude for our differences, which enrich our lives, and build a community of differences as vast as the ocean we really are. Anthony is happy to answer all of your questions.",
-                    "speakerIds" : [12]
-               },
-               {
-                    "type" : 3,
-                    "id" : 21,
-                    "start" : "2019-02-16T12:45:00-08:00",
-                    "end" : "2019-02-16T13:45:00-08:00",
-                    "title" : "Adult II, YBL, & College: Future Leaders of the Dharma",
-                    "description" : "Panelists: Jason Yokoyama, Emily Ko, and Emma Inge\nIn 2018, the country saw Millennials and Gen-Z students quickly gain influence and power. From the March for Our Lives campaign to becoming the most diverse generation ever, young people are making a difference in their community through compassionate means. Learn more about these young influential Northwest Buddhist leaders’ perspectives on how Buddhism applies to their everyday lives while understanding how to keep them engaged in your home temple.",
-                    "roomIds" : [8, 19],
-               },
-               {
-                    "type" : 3,
-                    "id" : 22,
-                    "start" : "2019-02-16T12:45:00-08:00",
-                    "end" : "2019-02-16T13:45:00-08:00",
-                    "title" : "Japanese: 真宗門徒と社会の関わり -善行か報恩か-",
-                    "roomIds" : [18],
-                    "description" : "Shinshu Monto to Syakai no Kakawari - Zengyo ka Hoon ka\nShin Buddhists’ Relationship with Society - Good Deed or Act of Repaying the Debt of Gratitude",
-                    "speakerIds" : [5]
-               },
-               {
-                    "type" : 3,
-                    "id" : 23,
-                    "start" : "2019-02-16T12:45:00-08:00",
-                    "end" : "2019-02-16T13:45:00-08:00",
-                    "title" : "Dharma School",
-                    "roomIds" : [10]
-               },
-               {
-                    "type" : 3,
-                    "id" : 24,
-                    "start" : "2019-02-16T14:00:00-08:00",
-                    "end" : "2019-02-16T15:00:00-08:00",
-                    "title" : "Adult I: The John Volken Academy",
-                    "roomIds" : [3],
-                    "description" : "The John Volken Academy is a long-term (minimum 24 month) residential treatment center which primarily focuses on drug and alcohol rehabilitation. The John Volken Academy addiction recovery program is modeled after the therapeutic community approach to addiction treatment, providing students with healthy lifestyle changes needed to live successful and sober lives, in the long term. We focus on life skills training, educational and vocational training, leadership opportunities as well as community involvement. Students learn gratitude, importance of volunteering, self-confidence, discipline, humility, integrity among many others. The John Volken Academy is truly a place where students come to change their lives – forever!",
-                    "speakerIds" : [7]
-               },
-               {
-                    "type" : 3,
-                    "id" : 53,
-                    "start" : "2019-02-16T14:00:00-08:00",
-                    "end" : "2019-02-16T15:00:00-08:00",
-                    "title" : "Adult II: Temple Culture",
-                    "roomIds" : [8],
-                    "description" : "What culture is your temple? Although for many years our Buddhist Churches of America (BCA) temples could have been defined as Japanese American temples. Over the past 30 years this has changed drastically. However, without understanding what creates a temple’s culture, our temples and thus BCA cannot succeed. \"Compassion, Gratitude, Community\" is the theme for this year’s Northwest District Convention. There is a great deal of misunderstanding between compassion in a general sense and the Jodo Shinshu understanding of compassion. Our temples are not dispensers of compassion, merely the recipients. In developing our temple cultures, it is important that we develop a culture based upon Jodo Shinshu teachings and how we live a life of gratitude. In this way, we may create temples with a culture of gratitude and community.",
-                    "speakerIds" : [9]
-               },
-               {
-                    "type" : 3,
-                    "id" : 26,
-                    "start" : "2019-02-16T14:00:00-08:00",
-                    "end" : "2019-02-16T15:00:00-08:00",
-                    "title" : "Japanese: Learn Compassion, Gratitude and Community from a Japanese folktale \"The Motherly Ghost (AMEYA NO YUREI)\"",
-                    "roomIds" : [18],
-                    "description" : "This folktale has been told at the Kogenji temple, which is Rev. Kusunoki’s family temple in Nagasaki, Japan.",
-                    "speakerIds" : [4]
-               },
-               {
-                    "type" : 3,
-                    "id" : 25,
-                    "start" : "2019-02-16T14:00:00-08:00",
-                    "end" : "2019-02-16T15:00:00-08:00",
-                    "title" : "College & YBL: \"Only Half Step Away\"",
-                    "roomIds" : [16, 17],
-                    "description" : "Join Rev. Yuki to hear him share about his favorite musician, whose thoughts are really close to Buddhism, and some music of his own.",
-                    "speakerIds" : [5]
-               },
-               {
-                    "type" : 3,
-                    "id" : 27,
-                    "start" : "2019-02-16T14:00:00-08:00",
-                    "end" : "2019-02-16T15:00:00-08:00",
-                    "title" : "Dharma School",
-                    "roomIds" : [10]
-               },
-               {
-                    "type" : 1,
-                    "id" : 48,
-                    "start" : "2019-02-16T15:00:00-08:00",
-                    "end" : "2019-02-16T15:20:00-08:00",
-                    "title" : "Break",
-                    "roomIds" : [2]
-               },
-               {
-                    "type" : 3,
-                    "id" : 28,
-                    "start" : "2019-02-16T15:25:00-08:00",
-                    "end" : "2019-02-16T16:25:00-08:00",
-                    "title" : "Adult I: Shinran Shonin’s Understanding of Compassion and What We Can Then Do",
-                    "roomIds" : [3],
-                    "description" : "What is the Jodo Shinshu interpretation of compassion? What is the source of compassion?  Normally, in the everyday usage of the term, we often feel that we must be compassionate towards others and that by doing so, this is what it means to be a “good Buddhist.” But the significance of compassion in Shin is a little more complex than this. Together, let us look at how Shinran Shonin, the founder of Jodo Shinshu Buddhism, came to understand and receive the compassion of Amida Buddha. It is only when we understand the true source of compassion, that we can then move forward in our lives in the dynamic reality of compassionate activity.",
-                    "speakerIds" : [6]
-               },
-               {
-                    "type" : 3,
-                    "id" : 29,
-                    "start" : "2019-02-16T15:25:00-08:00",
-                    "end" : "2019-02-16T16:25:00-08:00",
-                    "title" : "Adult II: American Sutra: Dharma Lessons from WWII",
-                    "roomIds" : [8, 19],
-                    "description" : "Based on stories from his new book “American Sutra” about Buddhism and the WWII Japanese American incarceration, Duncan Ryūken Williams will discuss how one can draw on one’s Buddhist faith in uncertain times. At a time of loss and dislocation, our Dharma ancestors drew on fundamental Buddhist teachings of dynamic change and interdependence to foster an orientation to the world that helped them recognize that they were not alone in the world.\n\nStories from the past inspires us to see the timeless Buddhist virtues of a compassionate heart as we see how helping others is interlinked to our own well-being; a sense of gratitude towards all that sustain our life; and the building of a Sangha community that strengthens and enhances our Buddhist practice. From building Buddhist altars from desert wood to using guard tower searchlights for meditation practice, we’ll also learn from the wartime stories about how to make the best out of what is karmically available to us and to achieve freedom even in the midst of a state of non-freedom.",
-                    "speakerIds" : [8]
-               },
-               {
-                    "type" : 3,
-                    "id" : 30,
-                    "start" : "2019-02-16T15:25:00-08:00",
-                    "end" : "2019-02-16T16:25:00-08:00",
-                    "title" : "YBL: Finding Compassion, Gratitude, and Community - A Photo Project",
-                    "roomIds" : [18],
-                    "description" : "Facilitators: Kendal Kosai & Valerie Yamanaka\nWhile the we live a life of dukkha (suffering), it can be difficult to see the realities of our interdependence of the tenets of compassion, gratitude, and community. Buddhism teaches one to come to this through our own self-realization. Join us for an interactive workshop that asks us to find the compassion, gratitude, and community in our everyday lives. While the we live a life of dukkha (suffering), it can be difficult to see the realities of our interdependence of the tenets of compassion, gratitude, and community. Buddhism teaches one to come to this through our own self-realization. Join us for an interactive workshop that asks us to find the compassion, gratitude, and community in our everyday lives."
-               },
-               {
-                    "type" : 3,
-                    "id" : 50,
-                    "start" : "2019-02-16T15:25:00-08:00",
-                    "end" : "2019-02-16T16:25:00-08:00",
-                    "title" : "College: Welcome Matts Podcast",
-                    "roomIds" : [16, 17],
-                    "description" : "Go behind the scenes with Rev. Matt (Hamasaki) and Matt (Nitta) as they introduce their podcast, “Welcome Matts,” where they talk about Buddhism, pop culture, and anything in life that comes up. They will share their goals and the creative process of podcasting. This will be their first time recording a podcast with a live audience, so they will be looking for lots of interaction!",
-                    "speakerIds" : [1]
-               },
-               {
-                    "type" : 3,
-                    "id" : 31,
-                    "start" : "2019-02-16T15:25:00-08:00",
-                    "end" : "2019-02-16T16:25:00-08:00",
-                    "title" : "Dharma School",
-                    "roomIds" : [10]
-               },
-               {
-                    "type" : 1,
-                    "id" : 32,
-                    "start" : "2019-02-16T16:30:00-08:00",
-                    "end" : "2019-02-16T17:30:00-08:00",
-                    "title" : "BWA Sales",
-                    "roomIds" : [7]
-               },
-               {
-                    "type" : 1,
-                    "id" : 51,
-                    "start" : "2019-02-16T16:30:00-08:00",
-                    "end" : "2019-02-16T17:30:00-08:00",
-                    "title" : "Duncan Williams Book Signing",
-                    "roomIds" : [21]
-               },
-               {
-                    "type" : 5,
-                    "id" : 33,
-                    "start" : "2019-02-16T16:30:00-08:00",
-                    "end" : "2019-02-16T17:30:00-08:00",
-                    "title" : "Dharma School Teachers' League Meeting",
-                    "roomIds" : [16, 17]
-               },
-               {
-                    "type" : 1,
-                    "id" : 34,
-                    "start" : "2019-02-16T17:00:00-08:00",
-                    "end" : "2019-02-16T18:00:00-08:00",
-                    "title" : "No host bar and social hour",
-                    "roomIds" : [2]
-               },
-               {
-                    "type" : 1,
-                    "id" : 35,
-                    "start" : "2019-02-16T18:00:00-08:00",
-                    "end" : "2019-02-16T20:00:00-08:00",
-                    "title" : "Banquet",
-                    "roomIds" : [3, 8, 19]
-               },
-               {
-                    "type" : 1,
-                    "id" : 36,
-                    "start" : "2019-02-16T20:00:00-08:00",
-                    "end" : "2019-02-16T21:30:00-08:00",
-                    "title" : "Entertainment - Variety Show!",
-                    "roomIds" : [3, 8, 19],
-                    "description" : "This year's variety show is packed with games, trivia, and much more. Stick around and you might find yourself competing head-to-head against Sensei Matt in a race against time!"
-               },
-               {
-                    "type" : 1,
-                    "id" : 37,
-                    "start" : "2019-02-16T21:00:00-08:00",
-                    "end" : "2019-02-16T23:00:00-08:00",
-                    "title" : "Hospitality Room",
-                    "description" : "Come join the rest of the attendees for some drinks and snacks. We have an assortment of cocktails, beers, juices, and soda as well as many snacks, many made from our members. Don't get too wild though, we have lot of activities tomorrow that you won't want to miss. Please drink responsibly.",
-                    "roomIds" : [20, 14, 15]
-               },
-               {
-                    "type" : 2,
-                    "id" : 38,
-                    "start" : "2019-02-17T07:00:00-08:00",
-                    "end" : "2019-02-17T07:45:00-08:00",
-                    "title" : "Oasaji - Early Morning Gathering Shoshinge-Gyofu",
-                    "roomIds" : [8]
-               },
-               {
-                    "type" : 5,
-                    "id" : 39,
-                    "start" : "2019-02-17T08:30:00-08:00",
-                    "end" : "2019-02-17T09:30:00-08:00",
-                    "title" : "NW District Council Meeting",
-                    "roomIds" : [4, 5]
-               },
-               {
-                    "type" : 5,
-                    "id" : 40,
-                    "start" : "2019-02-17T08:30:00-08:00",
-                    "end" : "2019-02-17T09:30:00-08:00",
-                    "title" : "BWA General Membership Meeting",
-                    "roomIds" : [16, 17]
-               },
-               {
-                    "type" : 1,
-                    "id" : 41,
-                    "start" : "2019-02-17T08:30:00-08:00",
-                    "end" : "2019-02-17T09:30:00-08:00",
-                    "title" : "Meditation",
-                    "roomIds" : [3]
-               },
-               {
-                    "type" : 3,
-                    "id" : 42,
-                    "start" : "2019-02-17T08:30:00-08:00",
-                    "end" : "2019-02-17T09:30:00-08:00",
-                    "title" : "Session IV: ALL - Recap",
-                    "roomIds" : [6],
-                    "speakerIds" : [2],
-                    "description" : "The White River Buddhist Temple has made the convention theme, \"Compassion, Gratitude, Community\", our own Temple’s mission over the past several years. This includes integrating community speakers into our regular schedule, learning more about individuals and organizations in the surrounding community, and how we can help and relate to one another. Join Rev. Warrick for a discussion session recapping the convention workshops and theme and how your temple can become a part of the larger religious landscape in our communities."
-               },
-               {
-                    "type" : 6,
-                    "id" : 43,
-                    "start" : "2019-02-17T09:30:00-08:00",
-                    "end" : "2019-02-17T10:00:00-08:00",
-                    "title" : "Oshoko - Incense Offering",
-                    "roomIds" : [3, 8, 19]
-               },
-               {
-                    "type" : 6,
-                    "id" : 49,
-                    "start" : "2019-02-17T09:30:00-08:00",
-                    "end" : "2019-02-17T10:00:00-08:00",
-                    "title" : "Live Music by Don & Judy Gardner",
-                    "roomIds" : [3, 8, 19]
-               },
-               {
-                    "type" : 2,
-                    "id" : 44,
-                    "start" : "2019-02-17T10:00:00-08:00",
-                    "end" : "2019-02-17T11:30:00-08:00",
-                    "title" : "Closing Service - Dharma Talk by Rev. Matt Hamasaki",
-                    "description" : "9:30 am Oshōko and Live Music by Don & Judy Gardner\n10:00 am Service and closing Keynote\nKaikyoshi Ministers please assemble in foyer at 9:40 am",
-                    "roomIds" : [3, 8, 19]
-               }
-               ]
+  "events": [
+    {
+      "type": 1,
+      "id": 1,
+      "start": "2020-02-18T13:00:00-08:00",
+      "end": "2020-02-18T17:00:00-08:00",
+      "title": "Kyokucho Meeting",
+      "roomIds": [
+        16
+      ]
+    },
+    {
+      "type": 1,
+      "id": 2,
+      "start": "2020-02-18T19:30:00-08:00",
+      "end": "2020-02-18T23:00:00-08:00",
+      "title": "Hospitality",
+      "roomIds": [
+        17
+      ]
+    },
+    {
+      "type": 1,
+      "id": 3,
+      "start": "2020-02-19T08:00:00-08:00",
+      "end": "2020-02-19T09:00:00-08:00",
+      "title": "Minister' Registration",
+      "roomIds": [
+        16
+      ]
+    },
+    {
+      "type": 2,
+      "id": 4,
+      "start": "2020-02-19T09:00:00-08:00",
+      "end": "2020-02-19T09:30:00-08:00",
+      "title": "Ministers Association Opening Service",
+      "roomIds": [
+        3
+      ]
+    },
+    {
+      "type": 1,
+      "id": 5,
+      "start": "2020-02-19T09:30:00-08:00",
+      "end": "2020-02-19T12:00:00-08:00",
+      "title": "Ministers Association Meeting",
+      "roomIds": [
+        2
+      ]
+    },
+    {
+      "type": 1,
+      "id": 6,
+      "start": "2020-02-19T12:00:00-08:00",
+      "end": "2020-02-19T13:30:00-08:00",
+      "title": "Lunch (Voucher Provided)",
+      "roomIds": [
+        18
+      ]
+    },
+    {
+      "type": 1,
+      "id": 7,
+      "start": "2020-02-19T13:30:00-08:00",
+      "end": "2020-02-19T17:00:00-08:00",
+      "title": "Ministers Association Meeting (Continued)",
+      "roomIds": [
+        2
+      ]
+    },
+    {
+      "type": 1,
+      "id": 8,
+      "start": "2020-02-19T18:00:00-08:00",
+      "end": "2020-02-19T20:00:00-08:00",
+      "title": "Ministers' Konshinkai Dinner"
+    },
+    {
+      "type": 1,
+      "id": 9,
+      "start": "2020-02-19T20:30:00-08:00",
+      "end": "2020-02-19T23:00:00-08:00",
+      "title": "Hospitality",
+      "roomIds": [
+        17
+      ]
+    },
+    {
+      "type": 2,
+      "id": 10,
+      "start": "2020-02-20T09:00:00-08:00",
+      "end": "2020-02-20T09:30:00-08:00",
+      "title": "Ministers Association Opening Service",
+      "roomIds": [
+        3
+      ]
+    },
+    {
+      "type": 1,
+      "id": 11,
+      "start": "2020-02-20T09:30:00-08:00",
+      "end": "2020-02-20T12:00:00-08:00",
+      "title": "Ministers Association Meeting",
+      "roomIds": [
+        2
+      ]
+    },
+    {
+      "type": 1,
+      "id": 12,
+      "start": "2020-02-20T11:00:00-08:00",
+      "end": "2020-02-20T13:00:00-08:00",
+      "title": "NCM Check-in / Registration",
+      "roomIds": [
+        19
+      ]
+    },
+    {
+      "type": 1,
+      "id": 13,
+      "start": "2020-02-20T12:00:00-08:00",
+      "end": "2020-02-20T13:00:00-08:00",
+      "title": "Lunch (On Own)",
+      "description" : "Please check the \"News\" section of the App to find a link to the Food around the Venue."
+    },
+    {
+      "type": 3,
+      "id": 14,
+      "start": "2020-02-20T13:00:00-08:00",
+      "end": "2020-02-20T17:00:00-08:00",
+      "title": "IBS & CBE Symposium \"Prayers for the World\"",
+      "description": "This workshop, presented by Rev. Dr. David Mastsumoto, Rev. Dr. Mutsumo Fujiwara Wondra, and Rev. Dr. Takashi Miyaji, is baout how the teaching and life values of Jodo Shinshu guide us in the pursuit of World Peace.",
+      "roomIds": [
+        15
+      ],
+      "speakerIds": [
+        17
+      ]
+    },
+    {
+      "type": 1,
+      "id": 15,
+      "start": "2020-02-20T17:00:00-08:00",
+      "end": "2020-02-20T19:00:00-08:00",
+      "title": "Dinner (On Own)",
+      "description" : "Please check the \"News\" section of the App to find a link to the Food around the Venue."
+    },
+    {
+      "type": 1,
+      "id": 16,
+      "start": "2020-02-20T17:00:00-08:00",
+      "end": "2020-02-20T21:00:00-08:00",
+      "title": "NCM Check-in / Registration",
+      "roomIds": [
+        19
+      ]
+    },
+    {
+      "type": 1,
+      "id": 17,
+      "start": "2020-02-20T19:00:00-08:00",
+      "end": "2020-02-20T20:00:00-08:00",
+      "title": "BCA Joint Committee on Development Town Hall: \"The Dharma Forward Capital Campaign - an interactive session\"",
+      "roomIds": [
+        15
+      ]
+    },
+    {
+      "type": 1,
+      "id": 18,
+      "start": "2020-02-20T20:00:00-08:00",
+      "end": "2020-02-20T21:00:00-08:00",
+      "title": "Endowment Foundation: \"Investing Temple Assets through Custodial Accounts\"",
+      "roomIds": [
+        15
+      ]
+    },
+    {
+      "type": 1,
+      "id": 20,
+      "start": "2020-02-20T20:00:00-08:00",
+      "end": "2020-02-20T23:00:00-08:00",
+      "title": "Hospitality",
+      "roomIds": [
+        17
+      ]
+    },
+    {
+      "type": 1,
+      "id": 21,
+      "start": "2020-02-21T07:00:00-08:00",
+      "end": "2020-02-21T08:00:00-08:00",
+      "title": "President's Breakfast",
+      "roomIds": [
+        8
+      ]
+    },
+    {
+      "type": 1,
+      "id": 22,
+      "start": "2020-02-21T07:00:00-08:00",
+      "end": "2020-02-21T08:30:00-08:00",
+      "title": "NCM Check-in / Registration and NCM Delegates Check-inn / Credentials (Grand Prefunction next to Stair Prefunction)",
+      "roomIds": [
+        20
+      ]
+    },
+    {
+      "type": 2,
+      "id": 23,
+      "start": "2020-02-21T08:30:00-08:00",
+      "end": "2020-02-21T09:00:00-08:00",
+      "title": "BCA National Council Opening Service",
+      "roomIds": [
+        15
+      ]
+    },
+    {
+      "type": 1,
+      "id": 24,
+      "start": "2020-02-21T09:00:00-08:00",
+      "end": "2020-02-21T21:00:00-08:00",
+      "title": "Hongwanji Place Bookstore",
+      "roomIds": [
+        7
+      ]
+    },
+    {
+      "type": 1,
+      "id": 25,
+      "start": "2020-02-21T09:15:00-08:00",
+      "end": "2020-02-21T13:30:00-08:00",
+      "title": "National Council Meeting",
+      "roomIds": [
+        15
+      ]
+    },
+    {
+      "type": 1,
+      "id": 26,
+      "start": "2020-02-21T12:30:00-08:00",
+      "end": "2020-02-21T13:30:00-08:00",
+      "title": "Lunch",
+      "roomIds": [
+        15
+      ]
+    },
+    {
+      "type": 1,
+      "id": 27,
+      "start": "2020-02-21T13:30:00-08:00",
+      "end": "2020-02-21T17:00:00-08:00",
+      "title": "National Council Meeting (Continued)",
+      "roomIds": [
+        15
+      ]
+    },
+    {
+      "type": 1,
+      "id": 28,
+      "start": "2020-02-21T16:00:00-08:00",
+      "end": "2020-02-21T21:00:00-08:00",
+      "title": "Northwest Distict Convention Check-in / Registation",
+      "roomIds": [
+        20
+      ]
+    },
+    {
+      "type": 1,
+      "id": 29,
+      "start": "2020-02-21T17:00:00-08:00",
+      "end": "2020-02-21T19:00:00-08:00",
+      "title": "Dinner (On Own)",
+      "description" : "Please check the \"News\" section of the App to find a link to the Food around the Venue."
+    },
+    {
+      "type": 1,
+      "id": 30,
+      "start": "2020-02-21T17:30:00-08:00",
+      "end": "2020-02-21T19:00:00-08:00",
+      "title": "Bishop's Dinner w/guests",
+      "roomIds": [
+        21
+      ]
+    },
+    {
+      "type": 1,
+      "id": 31,
+      "start": "2020-02-21T19:00:00-08:00",
+      "end": "2020-02-21T19:55:00-08:00",
+      "title": "Ministerial Affairs Committee: Ministers' Retirement & Benefits",
+      "roomIds": [
+        15
+      ]
+    },
+    {
+      "type": 5,
+      "id": 32,
+      "start": "2020-02-21T19:00:00-08:00",
+      "end": "2020-02-21T20:00:00-08:00",
+      "title": "NW: Zumba",
+      "roomIds": [
+        2,
+        3
+      ]
+    },
+    {
+      "type": 1,
+      "id": 33,
+      "start": "2020-02-21T19:00:00-08:00",
+      "end": "2020-02-21T21:00:00-08:00",
+      "title": "Display & Information",
+      "roomIds": [
+        4
+      ]
+    },
+    {
+      "type": 5,
+      "id": 34,
+      "start": "2020-02-21T19:00:00-08:00",
+      "end": "2020-02-21T21:00:00-08:00",
+      "title": "NW: Nenju Making & Repair",
+      "roomIds": [
+        8
+      ]
+    },
+    {
+      "type": 5,
+      "id": 35,
+      "start": "2020-02-21T19:00:00-08:00",
+      "end": "2020-02-21T21:00:00-08:00",
+      "title": "NW: YBA Activity",
+      "roomIds": [
+        7
+      ]
+    },
+    {
+      "type": 1,
+      "id": 36,
+      "start": "2020-02-21T20:00:00-08:00",
+      "end": "2020-02-21T21:00:00-08:00",
+      "title": "NCM: Propagation & Membership",
+      "roomIds": [
+        15
+      ]
+    },
+    {
+      "type": 1,
+      "id": 37,
+      "start": "2020-02-21T20:00:00-08:00",
+      "end": "2020-02-21T21:00:00-08:00",
+      "title": "NCM: Minister's Assiastant Program",
+      "roomIds": [
+        15
+      ]
+    },
+    {
+      "type": 1,
+      "id": 38,
+      "start": "2020-02-21T20:00:00-08:00",
+      "end": "2020-02-21T23:00:00-08:00",
+      "title": "Hospitality",
+      "roomIds": [
+        17
+      ]
+    },
+    {
+      "type": 5,
+      "id": 39,
+      "start": "2020-02-22T07:00:00-08:00",
+      "end": "2020-02-22T08:30:00-08:00",
+      "title": "NW Distict BWA Meeting",
+      "roomIds": [
+        9
+      ]
+    },
+    {
+      "type": 1,
+      "id": 40,
+      "start": "2020-02-22T08:00:00-08:00",
+      "end": "2020-02-22T08:55:00-08:00",
+      "title": "Northwest District Conevention Check-In / Registration",
+      "description": "Please come check-in and get your name tag, program booklet, goodie bag, and sign up for banquet seating.  Seattle Betsuin Buddhist Temple welcomes you to the 73rd Annual Northwest District Buddhist Convention and Buddhist Churches of America National Council Meeting.",
+      "roomIds": [
+        20
+      ]
+    },
+    {
+      "type": 1,
+      "id": 41,
+      "start": "2020-02-22T08:00:00-08:00",
+      "end": "2020-02-22T08:55:00-08:00",
+      "title": "NCM Delegates Check-in / Credentials",
+      "roomIds": [
+        19
+      ]
+    },
+    {
+      "type": 6,
+      "id": 42,
+      "start": "2020-02-22T08:30:00-08:00",
+      "end": "2020-02-22T09:00:00-08:00",
+      "title": "Incense Offering (Oshoko)",
+      "roomIds": [
+        15
+      ]
+    },
+    {
+      "type": 2,
+      "id": 43,
+      "start": "2020-02-22T09:00:00-08:00",
+      "end": "2020-02-22T09:55:00-08:00",
+      "title": "Morning Service",
+      "description": "Dharma Talk: Rev. Kory Quon, Special Presentation: Rev. Kiyonobu Kuwahara",
+      "roomIds": [
+        15
+      ]
+    },
+    {
+      "type": 1,
+      "id": 44,
+      "start": "2020-02-22T09:00:00-08:00",
+      "end": "2020-02-22T21:00:00-08:00",
+      "title": "Hongwanji Place Bookstore",
+      "roomIds": [
+        6
+      ]
+    },
+    {
+      "type": 1,
+      "id": 45,
+      "start": "2020-02-22T09:00:00-08:00",
+      "end": "2020-02-22T21:00:00-08:00",
+      "title": "Displays & Information",
+      "roomIds": [
+        4
+      ]
+    },
+    {
+      "type": 1,
+      "id": 46,
+      "start": "2020-02-22T10:15:00-08:00",
+      "end": "2020-02-22T12:30:00-08:00",
+      "title": "National Council Meeting (Continued)",
+      "roomIds": [
+        15
+      ]
+    },
+    {
+      "type": 1,
+      "id": 47,
+      "start": "2020-02-22T10:15:00-08:00",
+      "end": "2020-02-22T02:30:00-08:00",
+      "title": "Dharma School",
+      "roomIds": [
+        5
+      ]
+    },
+    {
+      "type": 3,
+      "id": 48,
+      "start": "2020-02-22T10:20:00-08:00",
+      "end": "2020-02-22T11:15:00-08:00",
+      "title": "Shin Buddhist Liberation Theology & Hansen's Disease (Leprosy) Activism in Japan",
+      "description": "Professor Starling will be presenting some of her recent book on traditional temple wives in Japan and the roles that they play in temple life. She will also cover some of her current project concerning social engagement being led by Buddhist women highlighting the work of national and transnational groups who have taken up the cause of leprosy awareness.\n Ficilitator - Joseph Gotchy",
+      "roomIds": [
+        2,
+        3
+      ],
+      "speakerIds": [
+        1
+      ]
+    },
+    {
+      "type": 3,
+      "id": 49,
+      "start": "2020-02-22T10:20:00-08:00",
+      "end": "2020-02-22T11:15:00-08:00",
+      "title": "Sing Namo Amida Butsu",
+      "description": "Kemi will be presenting the new Gatha book project that was completed earlier this year. She will be presenting a few specific songs and having the group sing and practice some of the songs that will likely be part of the convention programming. Session details will be left to her discretion. Please go to the \"News\" Section of the App to access the Link for this session.\n Facilitator - Dennis Yamashita",
+      "roomIds": [
+        14
+      ],
+      "speakerIds": [
+        2
+      ]
+    },
+    {
+      "type": 3,
+      "id": 50,
+      "start": "2020-02-22T10:20:00-08:00",
+      "end": "2020-02-22T11:15:00-08:00",
+      "title": "EcoSangha and Earth Dana",
+      "description": "Rev. Castro will be presenting on the SBBT’s EcoSangha program and some of the successes that they have seen since being formed. He will also cover the concept of EcoSangha and some ideas of what could be considered \"Earth Dana\".",
+      "roomIds": [
+        2
+      ],
+      "speakerIds": [
+        3
+      ]
+    },
+    {
+      "type": 3,
+      "id": 51,
+      "start": "2020-02-22T10:20:00-08:00",
+      "end": "2020-02-22T11:15:00-08:00",
+      "title": "Temple Dana and Giving Back",
+      "description": "The Seattle Betsuin Youth Adult Minister Assistants will be leading a youth discussion on Dana and Buddhism.",
+      "roomIds": [
+        7
+      ],
+      "speakerIds": [
+        4
+      ]
+    },
+    {
+      "type": 5,
+      "id": 52,
+      "start": "2020-02-22T11:15:00-08:00",
+      "end": "2020-02-22T11:30:00-08:00",
+      "title": "NW Convention Break"
+    },
+    {
+      "type": 3,
+      "id": 53,
+      "start": "2020-02-22T11:30:00-08:00",
+      "end": "2020-02-22T12:30:00-08:00",
+      "title": "World Peace Begins with Me",
+      "description": "In this workshop we will explore ways we can strengthen our efforts to make the world around us a happier, healthier more joyous place.",
+      "roomIds": [
+        8
+      ],
+      "speakerIds": [
+        5
+      ]
+    },
+    {
+      "type": 4,
+      "id": 54,
+      "start": "2020-02-22T11:30:00-08:00",
+      "end": "2020-02-22T12:30:00-08:00",
+      "title": "Seattle Betsuin Minister and Assistants Dana Dharmathon",
+      "description": "Seattle Betsuin Reverend Irene Goto and Minister Assistants Leonnora Clarke, Maya Stout, and Devon Matsumoto will each give a Dharama talk relating to our theme of \"Dana for World Peace\"",
+      "roomIds": [
+        2,
+        3
+      ],
+      "speakerIds": [
+        11
+      ]
+    },
+    {
+      "type": 3,
+      "id": 55,
+      "start": "2020-02-22T11:30:00-08:00",
+      "end": "2020-02-22T12:30:00-08:00",
+      "title": "Otera de Asobo, Let’s Play at Temple!",
+      "description": "People in the temple’s have become more familiar with Ayano’s youth playgroup. Along with Kaori, they will be presenting some of the successes of the temple playgroup, showing adults what kind of activities they do and trying to inspire others to start planting the seeds of the Dharma in our children and what benefits that brings to temples. ",
+      "roomIds": [
+        13
+      ],
+      "speakerIds": [
+        6
+      ]
+    },
+    {
+      "type": 3,
+      "id": 56,
+      "start": "2020-02-22T11:30:00-08:00",
+      "end": "2020-02-22T12:30:00-08:00",
+      "title": "「お聲明からの学び」Oshomyo karano manabi (Learning from Chanting)",
+      "description": "This workshop is a chanting workshop.\n Facilitator - Junko Nakano",
+      "roomIds": [
+        9
+      ],
+      "speakerIds": [
+        7
+      ]
+    },
+    {
+      "type": 3,
+      "id": 57,
+      "start": "2020-02-22T11:30:00-08:00",
+      "end": "2020-02-22T12:30:00-08:00",
+      "title": "YBA: Bits of Rubble Turned to Gold",
+      "description": "An interactive workshop where attendees will be given the opportunity to craft something under the guidance of Rev. Fred Pelger.",
+      "roomIds": [
+        7
+      ],
+      "speakerIds": [
+        8
+      ]
+    },
+    {
+      "type": 3,
+      "id": 58,
+      "start": "2020-02-22T11:30:00-08:00",
+      "end": "2020-02-22T12:30:00-08:00",
+      "title": "Sing Namo Amida Butsu (Second Session)",
+      "description": "Kemi will be presenting the new Gatha book project that was completed earlier this year. She will be presenting a few specific songs and having the group sing and practice some of the songs that will likely be part of the convention programming. Session details will be left to her discretion. Please go to the \"News\" Section of the App to access the Link for this session.\n Facilitator - Dennis Yamashita",
+      "roomIds": [
+        14
+      ],
+      "speakerIds": [
+        2
+      ]
+    },
+    {
+      "type": 1,
+      "id": 59,
+      "start": "2020-02-22T12:30:00-08:00",
+      "end": "2020-02-22T13:15:00-08:00",
+      "title": "Break/Lunch",
+      "roomIds": [
+        15,
+        19
+      ]
+    },
+    {
+      "type": 3,
+      "id": 60,
+      "start": "2020-02-22T13:30:00-08:00",
+      "end": "2020-02-22T14:30:00-08:00",
+      "title": "Buddhist Parenting Panel",
+      "description": "This session, lead by Reverend Diana Thompson Tri-State Buddhist Temple and Reverend Yuki Sugahara Oregon Buddhist Temple, will be a look into the lives of ministers and laypeople who have raised their children in various Buddhist environments and with children of different ages. What Buddhist principles have they found helpful, how have they introduced Buddhism into their children’s lives and what kind of results has that led to?",
+      "roomIds": [
+        13
+      ],
+      "speakerIds": [
+        12
+      ]
+    },
+    {
+      "type": 3,
+      "id": 61,
+      "start": "2020-02-22T13:30:00-08:00",
+      "end": "2020-02-22T14:30:00-08:00",
+      "title": "D. T. Suzuki (1870-1966) and the Remaking of Pure Land Buddhism",
+      "description": "Pure Land Buddhism as we know it today is in many ways the result a crisis and redefinition of Buddhism during the nineteenth and early twentieth century. A major figure in this redefinition was the scholar and thinker Daisetz Suzuki, who is perhaps best known today as a proponent of Zen in the West. But he also had a deep interest in Pure Land Buddhism. This talk explores the life and thought of Suzuki and his innovative interpretations of Pure Land Buddhism.\n Facilitator - Leonora Clarke",
+      "roomIds": [
+        14
+      ],
+      "speakerIds": [
+        9
+      ]
+    },
+    {
+      "type": 3,
+      "id": 62,
+      "start": "2020-02-22T13:30:00-08:00",
+      "end": "2020-02-22T14:30:00-08:00",
+      "title": "Archiving Temple History",
+      "description": "Tom Ikeda will be presenting on what Densho does as an organization. Why is it so important to record and retain our historical records? What stories do they tell and what mistakes can we avoid by remembering our past.\n Facilitator - Alan Hoshino ",
+      "roomIds": [
+        2,
+        3
+      ],
+      "speakerIds": [
+        13
+      ]
+    },
+    {
+      "type": 3,
+      "id": 63,
+      "start": "2020-02-22T13:30:00-08:00",
+      "end": "2020-02-22T14:30:00-08:00",
+      "title": "Jodo Shinshu Rituals - Melodic Chanting of the Juseige",
+      "description": "Rev. Sekiya will be presenting a workshop on chanting the Juseige.\n Facilitator - Shizue Yahata",
+      "roomIds": [
+        8
+      ],
+      "speakerIds": [
+        10
+      ]
+    },
+    {
+      "type": 3,
+      "id": 64,
+      "start": "2020-02-22T13:30:00-08:00",
+      "end": "2020-02-22T14:30:00-08:00",
+      "title": "Nihongo Dharmathon",
+      "description": "Rev. Watanabe, Rev. Fujita, and Rev. Mukojima will each present a Dharma talk that relates to the theme of \"Dana for World Peace\"\n Facilitator - Rev. Katsuya",
+      "roomIds": [
+        9
+      ],
+      "speakerIds": [
+        14
+      ]
+    },
+    {
+      "type": 3,
+      "id": 65,
+      "start": "2020-02-22T13:30:00-08:00",
+      "end": "2020-02-22T14:30:00-08:00",
+      "title": "Panel on Roads to Tokudo",
+      "description": "This session, presented by Rev. Furumoto, Rev. Nakata, and MA Melissa Opel, will be a look into the lives of certified ministers prior to deciding to become ordained. What drove them to want to be ministers, what were they doing before, what were their motivations. Some of what their path into ministry looked like. Session name may be adjusted later.\n Facilitaor - Jason Yokoyama",
+      "roomIds": [
+        7
+      ],
+      "speakerIds": [
+        15
+      ]
+    },
+    {
+      "type": 1,
+      "id": 66,
+      "start": "2020-02-22T13:30:00-08:00",
+      "end": "2020-02-22T14:30:00-08:00",
+      "title": "BCA Executive Committee Meeting",
+      "roomIds": [
+        16
+      ]
+    },
+    {
+      "type": 1,
+      "id": 67,
+      "start": "2020-02-22T13:30:00-08:00",
+      "end": "2020-02-22T14:45:00-08:00",
+      "title": "Break"
+    },
+    {
+      "type": 3,
+      "id": 68,
+      "start": "2020-02-22T14:45:00-08:00",
+      "end": "2020-02-22T16:00:00-08:00",
+      "title": "Dana for World Peace",
+      "description": "In this combined session, lead by Rev. Miyagi, we will be exploring how we, as Buddhist’s, can have an impact on the issues that we face every day individually and as a whole. What are we doing now and how should we continue to move forward in the face of strife and adversity. This session will be interactive as we gather opinions from the audience and share our ideas.\nPlease download the NW District Convention App prior to this session available in the iTunes and Android app stores for free.\n\nPlease go to the \"News\" section of the app to find a link to the interactive part of this session.\n\n Facilitaor - Professor Erik Hammerstrom",
+      "roomIds": [
+        15
+      ],
+      "speakerIds": [
+        16
+      ]
+    },
+    {
+      "type": 5,
+      "id": 69,
+      "start": "2020-02-22T16:00:00-08:00",
+      "end": "2020-02-22T17:00:00-08:00",
+      "title": "Free Time"
+    },
+    {
+      "type": 5,
+      "id": 70,
+      "start": "2020-02-22T16:15:00-08:00",
+      "end": "2020-02-22T17:00:00-08:00",
+      "title": "NW District Dharma School Teachers League Meeting",
+      "roomIds": [
+        3
+      ]
+    },
+    {
+      "type": 5,
+      "id": 71,
+      "start": "2020-02-22T16:15:00-08:00",
+      "end": "2020-02-22T17:15:00-08:00",
+      "title": "NW District BWA Meet & Greet / Take & Make",
+      "roomIds": [
+        8
+      ]
+    },
+    {
+      "type": 1,
+      "id": 72,
+      "start": "2020-02-22T17:00:00-08:00",
+      "end": "2020-02-22T18:00:00-08:00",
+      "title": "No Host Cocktail Hour",
+      "roomIds": [
+        19
+      ]
+    },
+    {
+      "type": 1,
+      "id": 73,
+      "start": "2020-02-22T17:00:00-08:00",
+      "end": "2020-02-22T18:00:00-08:00",
+      "title": "Banquet Only Check-in",
+      "roomIds": [
+        19
+      ]
+    },
+    {
+      "type": 1,
+      "id": 74,
+      "start": "2020-02-22T18:00:00-08:00",
+      "end": "2020-02-22T20:30:00-08:00",
+      "title": "Banquet & Program",
+      "roomIds": [
+        15
+      ]
+    },
+    {
+      "type": 1,
+      "id": 75,
+      "start": "2020-02-22T21:00:00-08:00",
+      "end": "2020-02-22T23:00:00-08:00",
+      "title": "Hospitality",
+      "roomIds": [
+        17
+      ]
+    },
+    {
+      "type": 5,
+      "id": 76,
+      "start": "2020-02-23T08:30:00-08:00",
+      "end": "2020-02-23T09:30:00-08:00",
+      "title": "NW District BWA General Membership Meeting",
+      "roomIds": [
+        9
+      ]
+    },
+    {
+      "type": 1,
+      "id": 77,
+      "start": "2020-02-23T09:00:00-08:00",
+      "end": "2020-02-23T13:00:00-08:00",
+      "title": "Display & Information",
+      "roomIds": [
+        4
+      ]
+    },
+    {
+      "type": 1,
+      "id": 78,
+      "start": "2020-02-23T09:00:00-08:00",
+      "end": "2020-02-23T13:00:00-08:00",
+      "title": "Hongwanji Place Bookstore",
+      "roomIds": [
+        6
+      ]
+    },
+    {
+      "type": 6,
+      "id": 79,
+      "start": "2020-02-23T09:30:00-08:00",
+      "end": "2020-02-23T09:50:00-08:00",
+      "title": "Incense Burning (Oshoko)",
+      "roomIds": [
+        15
+      ]
+    },
+    {
+      "type": 1,
+      "id": 80,
+      "start": "2020-02-23T09:50:00-08:00",
+      "end": "2020-02-23T10:00:00-08:00",
+      "title": "Northwest District Singers \"Nonnosama\" & \"Nembutsu\"",
+      "roomIds": [
+        15
+      ]
+    },
+    {
+      "type": 2,
+      "id": 80,
+      "start": "2020-02-23T10:00:00-08:00",
+      "end": "2020-02-23T11:30:00-08:00",
+      "title": "BCA National Eitaikyo Service",
+      "description": "Dharma Talk: Bishop Kodo Umezu",
+      "roomIds": [
+        15
+      ]
+    }
+  ]
 }

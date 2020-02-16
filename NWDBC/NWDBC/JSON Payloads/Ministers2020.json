@@ -1,248 +1,123 @@
 {
-    "people" : [
-                {
-                "id" : 3,
-                "name" : "Rev. Kodo Umezu",
-                "image" : "umezu.jpg",
-                "secondary_image" : "umezu_d.jpg",
-                "title" : "Bishop",
-                "birthplace" : "Fukuoka Prefecture, Japan",
-                "background" : "Rev. Umezu received his B.A. from Ryukoku University in Kyoto in 1973, and his M.A. from the Institute of Buddhist Studies in Berkeley in 1976. After arriving in the United States in 1973, he served at the Fresno Betsuin Buddhist Temple until 1976. He served in the U.S. Navy from 1976 to 1980. He then served at the Los Angeles Betsuin and Buddhist Church of Oakland before being reassigned to serve as the Executive Assistant to the Bishop in 1996. In 2005, he was appointed as the Interim Director of the Center for Buddhist Education. He became the full Director in 2006. In April 2012, Rev. Umezu was elected Bishop of the Buddhist Churches of America, and is currently serving his second term. He is also the Chancellor of the Institute of Buddhist Studies and Editor-in-Chief of the Wheel of Dharma."
-                },
-                {
-                "id" : 1,
-                "name" : "Rev. Matthew Hamasaki",
-                "image" : "hamasaki.jpg",
-                "secondary_image" : "hamasaki_d.jpg",
-                "title" : "Minister",
-                "temple" : "Buddhist Church of Sacramento",
-                "birthplace" : "Berkeley, CA",
-                "background" : "After graduating Berkeley High he got his Bachelors in Arts in Religious Studies from UC Davis and went on to get his Masters in Buddhist Studies from IBS. After receiving ordination in Japan he was assigned to the Central California District for two years before being transferred to the Buddhist Church of Sacramento in January 2018.",
-                "facts" : [
-                           {
-                           "title" : "What characteristic do you most admire in others?",
-                           "description" : "The ability to empathize."
-                           },
-                           {
-                           "title" : "What's the most important lesson you've learned in the last year?",
-                           "description" : "Balancing time by saying “no” to things."
-                           },
-                           {
-                           "title" : "If we went to happy hour, what would you order?",
-                           "description" : "Whiskey on the rocks."
-                           }
-                           ]
-                },
-                {
-                "id" : 2,
-                "name" : "Rev. Jim Warrick",
-                "image" : "warrick.jpg",
-                "secondary_image" : "warrick_d.jpg",
-                "title" : "Minister",
-                "temple" : "White River Buddhist Temple",
-                "background" : "Reverend Jim Warrick got his start in the field of electronics while serving in the U.S. Air Force during the Vietnam War. After returning to civilian life he furthered his studies in electronics at Bossier College in Shreveport, LA. He has worked in the private sector in the field of Biomedical Engineering for 40 years, and retired from General Electric in 2014. After studying for several years and serving as a minister’s assistant, in 2003 he received Tokudo ordination as a Buddhist priest from our mother temple, Nishi Hongwanji in Kyoto, Japan. He continued his studies and in 2007 received Kyoshi certification from Nishi Hongwanji and was recognized by the BCA as a part time volunteer Kyoshi minister at the Seattle Betsuin. After retiring, he and wife, Rona, traveled extensively. They’ve decided to take a break from retirement and their travels and spend their time spreading the Nembutsu teaching.",
-                "facts" : [
-                           {
-                           "title" : "Family",
-                           "description" : "Married to Rona Warrick for the last eighteen wonderful years. We have five children between us, four girls and one boy, and seven grandchildren, six girls ages, 12 to 22 years old, and one grandson, age 10."
-                           },
-                           {
-                           "title" : "If we went to happy hour, what would you order?",
-                           "description" : "A Roy Rogers on ice"
-                           },
-                           {
-                           "title" : "What would you be doing if you weren’t a minister?",
-                           "description" : "I would be on a cruise ship in the South Pacific."
-                           },
-                           {
-                           "title" : "If you were to tell one person \"Thank You\" for helping me become the person I am today, who would it be and what did they do?",
-                           "description" : "My wife Rona. She taught me that \"a happy wife makes a happy life\"."
-                           },
-                           {
-                           "title" : "What characteristic do you most admire in others?",
-                           "description" : "Honesty"
-                           }
-                           ]
-                },
-                {
-                "id" : 4,
-                "name" : "Rinban Katsuya Kusonoki",
-                "image" : "Kusunoki.jpg",
-                "secondary_image" : "Kusunoki_d.jpg",
-                "title" : "Minister",
-                "birthplace" : "Nagasaki, Japan",
-                "background" : "Reverend Katsuya Kusunoki is the Head Minister of the Seattle Betsuin Buddhist Temple. He is the second son of a temple family. Today his older brother Naoya is the 17th generation of their family to serve their family temple. He is a graduate of Miyazaki University where he majored in primary education and his hobby is to watch and play baseball and softball. While a college student he took a break and spent almost two and a half years in a Japanese volunteer program, similar to the Peace Corps, coaching baseball in Zimbabwe before returning to Japan to complete his studies. After graduating he spent three years teaching 3rd and 6th grade classes before deciding to become a minister. His advanced training includes the Hongwanji-ha Rituals course for leaders (Gonshiki). He is a Hongwanji-ha certified Special Rituals Minister, a certificate only he and our former minister Rev. Sala Sekiya hold within the Buddhist Churches of America. His first assignment in America was to the Lodi Buddhist Temple in 2010, and he was transferred to Seattle in April of 2017.",
-                "temple" : "Seattle Betsuin Buddhist Temple",
-                "facts" : [
-                           {
-                           "title" : "Family",
-                           "description" : "Wife, Ayano Kusunoki, and son, Yuiya Kusunoki"
-                           },
-                           {
-                           "title" : "Do you have any skills or talents that most people don’t know about?",
-                           "description" : "I have (had) a scuba diving license. (Maybe the license is already expired!)"
-                           },
-                           {
-                           "title" : "If we went to happy hour, what would you order?",
-                           "description" : "Shochu (from sweet potatoes)"
-                           },
-                           {
-                           "title" : "What would be your personal motto?",
-                           "description" : "No rush. One by one. Don’t hesitate. Just step forward. You will see what is going on."
-                           },
-                           {
-                           "title" : "What would you be doing if you weren’t a minister?",
-                           "description" : "MLB player or school teacher"
-                           },
-                           {
-                           "title" : "If you were to tell one person \"Thank You\" for helping me become the person I am today, who would it be and what did they do?",
-                           "description" : "I would like to say thank you to each person who has listened my Japan-glish dharma message."
-                           }
-                           ]
-                },
-                {
-                "id" : 9,
-                "name" : "Rev. Jerry Hirano",
-                "image" : "Hirano.jpg",
-                "secondary_image" : "Hirano_d.jpg",
-                "title" : "Minister",
-                "birthplace" : "Salt Lake City, Utah",
-                "background" : "Minister: Salt Lake, Ogden, Honeyville, IOBT\nCo-Director BCA Center for Buddhist Education\nCo-Executive Assistant to Bishop Umezu\nDirector of Minister’s Assistant Program",
-                "temple" : "Idaho Oregon Buddhist Temple",
-                "facts" : [
-                           {
-                           "title" : "Family",
-                           "description" : "Married to Rev. Dr. Carmela Javellana, daughters Kacie (23) and Taylor (19)"
-                           },
-                           {
-                           "title" : "Who is someone you admire, and why?",
-                           "description" : "My wife; she has to live with me. She came from a Third World country to finish her MD and dual boards at Ohio State and finished her IBS certificate in Jodo Shinshu Shinshu Studies. She carries on with her private practice while running the meditation program at temple with the other Minister’s Assistants at temple, along with running adult study class."
-                           },
-                           {
-                           "title" : "Name three words that you describe you.",
-                           "description" : "Blessed beyond belief"
-                           },
-                           {
-                           "title" : "What movie or novel character do you most identify with and why?",
-                           "description" : "Ebenezer Scrooge - not his miserly qualities, but a mean old man who, despite his shortcomings, the world embraced and taught to be grateful."
-                           }
-                           ]
-                },
-                {
-                "id" : 5,
-                "name" : "Rev. Yuki Sugahara",
-                "image" : "Sugahara.jpg",
-                "secondary_image" : "Sugahara_d.jpg",
-                "title" : "Minister",
-                "birthplace" : "Kurayoshi, Tottori, Japan",
-                "background" : "Born as a son of temple families in Shimane prefecture. Received Tokudo in 1996, Kyoshi in 2002 and Kaikyoshi in 2011. Graduated from Ritsumeikan University in Kyoto, major in Political Science and Musashino University in Tokyo, major in Human Science (Buddhist Studies).",
-                "temple" : "Oregon Buddhist Temple",
-                "facts" : [
-                           {
-                           "title" : "Family",
-                           "description" : "Namiko (wife), Aoi (6 year old daughter), and Hikaru (2 year old son)"
-                           },
-                           {
-                           "title" : "Who is someone you admire, and why?",
-                           "description" : "The late Rev. Jitsuen Kakehashi. His words in \"Seiten Seminar Kyogyoshinsho Shin no Maki\" (not yet translated) gave huge impact on understanding what the Tathagata’s “salvation” means. I will quote them below: \"Salvation of Tathagata\" is not to forgive and compensate what we have done. It is to give us right wisdom to recognize our false as false and give us courage and capacity to take responsibility for what we have done. It is to turn our self-centered idea to feel sympathy for the other’s pain (karuna/compassion) and to wish for people’s happiness (maitra/friend). It is to cultivate our mind to be able to know the importance of these mind."
-                           },
-                           {
-                           "title" : "Name three words that you describe you.",
-                           "description" : "Beer, Buddhism, Bass guitar"
-                           },
-                           {
-                           "title" : "What would you be doing if you weren’t a minister?",
-                           "description" : "Musician or Martial Artist or Mover or Izakaya worker."
-                           }
-                           ]
-                },
-                {
-                "id" : 6,
-                "name" : "Rev. Takashi Miyaji",
-                "image" : "Miyaji.jpg",
-                "secondary_image" : "Miyaji_d.jpg",
-                "title" : "Minister",
-                "birthplace" : "Ogden, Utah",
-                "background" : "He grew up in Los Angeles, California. He has graduated from the University of California at Berkeley with a Bachelor’s Degree in Philosophy and Japanese language and literature, Institute of Buddhist Studies at Berkeley, California with a Master’s in Buddhist Studies, Ryukoku University in Kyoto, Japan with a Master’s Degree in Shin Buddhist Studies, and completed the doctoral coursework at Ryukoku University. He specializes in the areas of Japanese Buddhism and religion, translation of Buddhist scripture, and Jodo Shinshu doctrine and ethics. Takashi has received his Tokudo and Kyoshi qualifications at the Honpa Hongwanji school located in Kyoto, Japan. He has been a minister at the Tacoma Buddhist Temple since December 2017, and is currently working on his dissertation on Shin Buddhist ethics. He also likes music and used to DJ.",
-                "temple" : "Tacoma Buddhist Temple",
-                "facts" : [
-                           {
-                           "title" : "Family",
-                           "description" : "Wife is Kaori Miyaji. She grew up in Kumamoto, Japan. Son is Keisai. He is 2."
-                           },
-                           {
-                           "title" : "What characteristic do you most admire in others?",
-                           "description" : "I admire friendliness in others."
-                           },
-                           {
-                           "title" : "What’s the most important lesson you’ve learned in the last year?",
-                           "description" : "I learned that making weekly dharma talks is very hard!"
-                           }
-                           ]
-                },
-                {
-                "id" : 11,
-                "name" : "Rev. Anne Spencer",
-                "image" : "AnneSpencer.jpg",
-                "secondary_image" : "spencer.jpg",
-                "title" : "Ministers Assistant",
-                "birthplace" : "Grayland, Washington",
-                "background" : " I graduated from Whitman College with a degree in Biology-Psychology 1987. I earned a Masters degree in Genetic Counseling from UC Berkeley in 1991 and a Masters in Buddhist Studies from Institute of Buddhist Studies/GTU in 2012. I received my Tokudo ordination in 2010 and my Kyoshi certificate in 2018. I am a licensed genetic counselor, currently working in private practice and teaching at Boise State University.",
-                "temple" : "Idaho Oregon Buddhist Temple",
-                "facts" : [
-                           {
-                           "title" : "Family",
-                           "description" : "Married for 31 years to Eric. We have one son, Quinn, who is 23 years old."
-                           },
-                           {
-                           "title" : "Do you have any skills or talents that most people don’t know about?",
-                           "description" : "I love working with leftovers and can turn almost anything I find in the refrigerator into a decent meal or dessert. My recipe for a pie I called “Creamy Cranana Razzle” won first place in a small-town cooking contest."
-                           },
-                           {
-                           "title" : "If you were to tell one person \"Thank You\" for helping me become the person I am today, who would it be and what did they do?",
-                           "description" : "My second grade teacher who was especially kind to me when I was going through a difficult time at school. Her name was Mrs. (or Miss) Yamamoto. She taught at Ocosta Elementary School in Westport, WA in the early 1970’s. My mother thinks she was from the Auburn area. If you know her, please let me know--I’d love to be able to thank her in person."
-                           },
-                           {
-                           "title" : "What characteristic do you most admire in others?",
-                           "description" : "The ability to listen and respond to others in a way that helps them feel they are important."
-                           },
-                           {
-                           "title" : "What superpower would you like to have?",
-                           "description" : "Super power glasses that would allow me to find lost items, especially my keys."
-                           }
-                           ]
-                },
-                {
-                "id" : 7,
-                "name" : "Walker Stahle",
-                "image" : "Walker.jpg",
-                "title" : "Program Director",
-                "temple" : "John Volken Academy",
-                "background" : "Walker Stahle is originally from Logan, Utah. Most of Walker’s career has been spent in hospitality. He attended school at the University of Alabama and has worked in a variety of hotel chains with various positions. As a recovering drug addict and alcoholic, Walker now works as the Program Director of the John Volken Academy in Kent, Washington.\n\nHe began with the John Volken Academy as a student and graduated from the program in May 2018. He then accepted the Program Director position at the John Volken Academy in Gilbert, AZ. He returned to the Seattle area last November to continue on as Program Director. He understands the struggles related to addiction and is helping others overcome their addictions."
-                },
-                {
-                "id" : 8,
-                "name" : "Duncan Ryuken Williams",
-                "image" : "Williams.jpg",
-                "secondary_image" : "williams_d.jpg",
-                "title" : "Author",
-                "background" : "Duncan Ryuken Williams was born in Tokyo, Japan to a Japanese mother and British father. After growing up in Japan and England until age 17, he moved to the U.S. to attend college (Reed College) and graduate school (Harvard University, where he received a Ph.D. in Religion). He ordained as a Sōtō Zen Buddhist priest in 1993 at Kotakuji Temple in Nagano, Japan. Williams is currently the Director of the USC Shinso Ito Center for Japanese Religions and Culture. Previously, he held the Ito Distinguished Chair of Japanese Buddhism at University of California at Berkeley and served as the Director of Berkeley’s Center for Japanese Studies. He also served as the Executive Vice President of Japan House/LA, a public diplomacy initiative of Japan’s Ministry of Foreign Affairs. Williams is the author of The Other Side of Zen: A Social History of Sōtō Zen Buddhism in Tokugawa Japan (Princeton University Press) and editor of 7 books including Issei Buddhism in the Americas (U-Illinois Press), American Buddhism (Routledge/Curzon Press), Hapa Japan: History, Identity, and Representations of Mixed Race/Mixed Roots Japanese Peoples (Ito Center/Kaya Press), and Buddhism and Ecology (Harvard University Press). He has also translated four books from Japanese into English including Putting Buddhism to Work: A New Theory of Economics and Business Management (Kodansha). He has a forthcoming book American Sutra: A Story of Faith and Freedom in the Second World War (Harvard University Press, February 2019)."
-                },
-                {
-                "id" : 12,
-                "name" : "Anthony David Gipe",
-                "image" : "gipe.jpg",
-                "secondary_image" : "gipe_d.jpg",
-                "title" : "Attorney",
-                "background" : "Anthony David Gipe started a practice in law after a short career as an intelligence analyst and interpreter. Anthony has focused on complex civil litigation his entire career, in Oregon, Washington, and California, in the areas of Civil Rights, Business Litigation, Personal Injury, Family Law, and Gay and Lesbian Law. Anthony has handled dozens of trials in state and federal courts.\n\nAnthony’s current practice also includes advising other attorneys in their practices, including ethics, employment matters, and related issues.\n\nAnthony spends half his time working as a judicial officer, serving as a pro tem judge in King County District Court, City of Seattle, and City of Kent, and part of his practice includes serving as an arbiter and mediator.\n\nAnthony devotes significant time to volunteering in the profession. He was a founding board member and faculty of the Washington State Bar Association Leadership Institute Advisory Board since its inception. He is also a founding board member of QLAW and other minority bar associations. Finally, Anthony has served within the Washington State Bar Association for fifteen years including as a committee chair, At Large Governor, and he served as President of the WSBA in 2013-2016.\n\nAnthony has degrees and credentials in linguistics, Russian language, art, and comparative history, in addition to his Juris Doctor from the University of Washington School of Law. Washington Law & Politics readers voted Anthony a \"Rising Star\" in the legal profession in 2002 and 2003 and as a \"Super Lawyer\" in 2015-17.\nWhen Anthony is not practicing law, he pursues his hobbies in fitness, fine arts, and painting."
-                },
-                {
-                               "id" : 13,
-                               "name" : "Test new Minister",
-                               "image" : "gipe.jpg",
-                               "secondary_image" : "gipe_d.jpg",
-                               "title" : "Test Minister",
-                               "background" : "Test Background to for sizing purposes and to be used to replace existing data and to fill in with new data."
-                               },
-                ]
+  "people": [
+    {
+      "id": 1,
+      "name": "Prof. Jessica Starling",
+      "image": "Jessica.jpg",
+      "title": "Professor from Lewis and Clark College in Portland, OR",
+      "background": "Jessie Starling joined the faculty of Lewis & Clark in 2013 after completing a postdoctoral fellowship in Japanese Buddhism at the University of California, Berkeley.  She is also affiliated with the Asian Studies and Gender Studies programs at Lewis & Clark, and teaches classes on Asian religions, religion and gender, and ethnographic research methods."
+    },
+    {
+      "id": 2,
+      "name": "Kemi Nakabayashi",
+      "image": "Kemi.jpg",
+      "title": "Member and Musician of Seattle Betsuin Buddhist Temple",
+      "background": "Service music coordinator at Seattle Betsuin and editor of the Sing Namo Amida Butsu gatha book"
+    },
+    {
+      "id": 3,
+      "name": "Rev. Don Castro",
+      "image": "revcastro.jpg",
+      "title": "Reverend of Seattle Betsuin Buddhist Temple",
+      "background": "Rev. Castro was raised in Santa Clara, California and graduated with a B.A. in Anthropology from San Jose State Univ.  Following his graduation from IBS in Berkeley, he received Tokudo and Kyoshi in Japan and assumed his ministerial duties at the San Francisco Buddhist Church in 1977.  In 1981, he was transferred to Enmanji and, in 1986 he assumed his position at Seattle Betsuin.  He retired as Rinban at the end of 2016 but continues to stay active both in Seattle and lecturing on EcoSangha at other temples and events.  He is married to Rev. Shuri Saigusa and since his retirement, he has become a grandfather to three grandchildren.  He continues to study the Yabunouchi way of tea ceremony and was privileged to serve tea to the Gomonshu when he visited last year."
+    },
+    {
+      "id": 4,
+      "name": "Seattle Young Adult Youth Minister's Assistant",
+      "image": "SeattleYAMA.jpg",
+      "title": "Minister Assistant of Seattle Betsuin Buddhist Temple",
+      "background": "The Seattle YAMA program is a continuation of Buddhist education for college age students in the Seattle area, many of whom come from temples throughout the United States. The Seattle YAMA’s are alumni of the Buddhist Churches of America’s YAC program. "
+    },
+    {
+      "id": 5,
+      "name": "Rev. Jim Warrick",
+      "image": "RevWarrick.jpg",
+      "title": "Reverend of White River Buddhist Temple",
+      "background": "Resident Minister at White River Buddhist Temple. Warrick Sensei is a native of North Carolina. After serving in the US Air Force in electronics, he furthered his Electronics education at Bossier College in Louisiana. After working for 40 years in Biomedical Engineering for General Electric, he retired in 2014. After he and wife, Rona, traveled extensively, they found that they would like to spend time now spreading the Nembutsu teaching."
+    },
+    {
+      "id": 6,
+      "name": "Ayano Kusunoki and Kaori Miyaji",
+      "image": "AyanoandKaori.jpg",
+      "title": "Member of Seattle Betsuin Buddhist Temple and Wife of Rev. Katsuya Kusunoki",
+      "background": "Ayano and Kaori, wives of Reverend Katsuya Kusunoki and Takashi Miyaji, have both started successful youth playgroups at their respective temples. They value the idea of having young people involved at the temple and have worked hard to support programs that do the same."
+    },
+    {
+      "id": 7,
+      "name": "Rev. Anan Hatanaka",
+      "image": "Hatanaka.jpg",
+      "title": "Reverend of Hongwanji International Office",
+      "background": "My name is Anan Hatanaka. I was born in Fukui prefecture. I work at the Hongwanji Office at Jodo shinshu Center, Berkeley as the Program Assistant. 福井県出身の畑中阿難と申します。バークレー浄土真宗センターの本願寺オフィスで、プログラムアシスタントとして勤務しております。"
+    },
+    {
+      "id": 8,
+      "name": "Rev. Fred Pelger",
+      "image": "Fred.jpg",
+      "title": "Reverend Fred Pelger",
+      "background": "Temple member for 20 years\nTokudo ordination in 2012, Kyoto Japan\n69 years old\nMarried to my same gender husband, Les Hitsman, 2014 and partners for the past 37 years. Taught dharma school several years but now letting someone else have the joy of that. Enjoy speaking to the sangha members any chance I get. Love leading the service when Rev. Miyaji can't be there."
+    },
+    {
+      "id": 9,
+      "name": "Prof. James Dobbins",
+      "image": "james_dobbins.jpg",
+      "title": "Professor of Oberlin College in Oberlin, OH",
+      "background": "Oberlin College, 1983-2019 Fairchild Professor of Religion and East Asian Studies Chair, Religion Department, 1996-1998, 2004-2005 Director, East Asian Studies Program, 1991, 1993-1996 Courses Taught: Introduction to Religion, Colloquium on Buddhism, First-year Seminar on Taoism, Chinese Thought and Religion, Japanese Thought and Religion, Zen Buddhism, Seminar on Taoism, Seminar on Mahāyāna Buddhism, Seminar on Pure Land Buddhism, Seminar on Buddhism and Orientalism"
+    },
+    {
+      "id": 10,
+      "name": "Rev. Sala Sekiya",
+      "image": "revsala.jpg",
+      "title": "Reverend of Gardena Buddhist Temple",
+      "background": "Reverend Sala Sekiya is a BCA Kaikyoshi Minister at the Gardena Buddhist Church from March 2017. Born and raised in Tokyo, Japan, Rev. Sekiya finished high school in the USA and has a BS from Boston University. Sensei was ordained in 2012 and continued on her education in Hongwanji-ha schools in Kyoto, Japan, prior to transferring to the Buddhist Churches of America and being assigned to the Seattle Betsuin Buddhist Temple from Sep 2015 to Feb 2017. She has finished the Hongwanji-ha Rituals courses and is a Hongwanji-ha certified Special Rituals Minister."
+    },
+    {
+      "id": 11,
+      "name": "Rev. Irene Goto and Minister's Assistants Leonora Clarke, Meya Stout, and Devon Matsumoto",
+      "image": "SeattleMA.jpg",
+      "title": "Reverend and some MAs from Seattle Betsuin Buddhist Temple",
+      "background": "Irene Goto, Reverend of Seattle Betsuin Buddhist Temple:\nA certified Minister’s Assistant in the summer of 2011 and received Tokudo* ordination in 2014. \"Through high school I attended a Christian church because there was no Buddhist temple near our home. In the mid 80’s when my daughter was in kindergarten she asked me to take her to this place called \"church\" so I decided to take her to the Buddhist Church. I was pleasantly surprised to find that what the ministers at Seattle Betsuin were teaching resonated with my views. I’ve been attending, participating, and listening ever since. I hope to help keep the Dharma resonating.\" \n\nLeonora Clarke, Minister's Assisant of Seattle Betsuin Buddhist Temple:\nA certified minister’s assistant in the fall of 2013. She has a degree in Comparative Religions and has completed the two year Jodo Shinshu Correspondence Course offered by the BCA’s Jodo Shinshu Center. Leonora works for the University of Washington School of Medicine.\n\nMeya Stout, Minister's Assistant of Seattle Betsuin Buddhist Temple:\nMeya was a transplant from the Las Vegas Buddhist Sangha. Meya became a Minister’s Assistant at the Seattle Betsuin in January of 2020.\n\nDevon Matsumoto, Minister's Assistant of Seattle Betsuin Buddhist Temple:\nDevon Matsumoto is enrolled in Seattle University’s graduate program and is working on his Master’s of Social Work. He became a Minister’s Assistant at the Seattle Betsuin in January of 2020."
+    },
+    {
+      "id": 12,
+      "name": " Rev. Diana Thompson, Rev. Yuki Sugahara, Crystal Inge, and Diane Deaver",
+      "image": "ParentsPanel.jpg",
+      "title": "Buddhist Parenting Panelists",
+      "background": "Reverend Diana Thompson: Reverend\n\nYuki Sugahara, Reverend of Oregon Buddhist Temple:\nResident Minister of Oregon Buddhist Temple. He was born as a son of temple families in Shiromane prefecture. He received Tokudo in 1996, Kyoshi in 2002,  and Kaikyoshi in 2011. In choosing three words to describe him, he chose \"Beer, Buddhism and Bass Guitar\".\n\nCrystal Inge:\nMember and Former President of Tacoma Buddhist Temnple\n\nDiane Deaver, Member of Seattle Betsuin Buddhist Temple:\nOberlin College, 1983-2019 Fairchild Professor of Religion and East Asian Studies Chair, Religion Department, 1996-1998, 2004-2005 Director, East Asian Studies Program, 1991, 1993-1996 Courses Taught: Introduction to Religion, Colloquium on Buddhism, First-year Seminar on Taoism, Chinese Thought and Religion, Japanese Thought and Religion, Zen Buddhism, Seminar on Taoism, Seminar on Mahāyāna Buddhism, Seminar on Pure Land Buddhism, Seminar on Buddhism and Orientalism"
+    },
+    {
+      "id": 13,
+      "name": "Tom Ikeda",
+      "image": "TomIkeda.jpg",
+      "title": "Executive Director of Densho",
+      "background": "Tom Ikeda is the founding Executive Director of Densho, a non-profit organization started in 1996. Densho’s mission is to preserve and share the history of the WWII Japanese American incarceration to promote justice and equity today. Tom is a sansei who was born and raised in Seattle. He has personally conducted more than 250 video-recorded oral history interviews with Japanese Americans. Over the past 24 years, the Densho archives have grown to include some 80,000 scanned photos and documents, as well as nearly 1,000 oral history interviews with Japanese American who were incarcerated during World War II. Densho’s Encyclopedia provides 1,500 articles giving context to the content. And, through free online lessons for educators, Densho's curriculum introduces students to questions of civil liberties through stories and first hand accounts of discrimination. All of Densho’s resources can be freely accessed and downloaded by anyone, anywhere."
+    },
+    {
+      "id": 14,
+      "name": "Rev. Nariaki Hayashi, Rev. Yugo Fujita, and Rev. Yushi Mukojima",
+      "image": "Dharmathon.jpg",
+      "title": "Reverends for Dharmathon",
+      "background": "Nariaki Hayashi, Reverend of Ekoji Buddhist Temple:\nCame from Kyoto, Japan as a minister for the Ekoji Buddhist Temple to share and spread Shinran Shonin’s; the founder of our tradition, Shin Buddhism teaching here in America. I was born in Hawaii, so I guess that makes me a Nisei; the second generation. I moved back to Japan when I was 12. I come from a temple family with roots in Kagoshima, Japan.\n\nYugo Fujita, Reverend of Salinas Buddhist Temple:\nRev Fujita is the resident of Salinas Buddhist Temple. He studied English in Seattle for two years in the Seattle area. He became a BCA Minister in October of 2016. Salinas Buddhist Temple is his first assignment and he enjoys playing basketball in his free time.\n\nYushi, Reverend of Mountain View Buddhist Temple:\nReverend Mukojima has been the resident minister of the Mountain View Buddhist Temple since August 1st, 2013. He began his career with the Buddhist Churches of America (BCA) in November 2001. He was assigned as the resident minister to the Seabrook Buddhist Temple in New Jersey in March of 2002."
+    },
+    {
+      "id": 15,
+      "name": "Rev. Ryuta Furumoto, Rev. Kazuaki Nakata, and Rev. Melissa Opel",
+      "image": "TokudoPanel.jpg",
+      "title": "Road to Tokudo Reverend Speakers",
+      "background": "Ryuta Furumoto, Reverend of Senshin Buddhist Temple:\n1998 Graduated Ryukoku University (Buddhist Studies)　龍谷大学仏教学卒業\n1998 Hongwanji Gonshiki, Hiroshima Bukkyo Gakuin　勤式指導所、広島仏教学院\n1999 Hongwanji Dendo-in, 伝道院\n1999 Hilo Betsuin, Hawaii　ヒロ別院\n2001 Arizona Buddhist Temple　アリゾナ仏教会\n2009 San Mateo Buddhist Temple　サンマテオ仏教会\n2013 Senshin Buddhist Temple 洗心仏教会\nWheel of Dharma Japanese editor 法輪、日本語編集\nBuddhist Surfers' Association, President 仏教徒サーフィン連盟 会長\n\nKazuaki Nakata, Reverend of Fresno Buddhist Temple:\nPresent Central California District Minister\nPhD Candidate in Buddhist Studies\nResearch Assistant in Marketing and Public Relation\n\nPast\nCounty Chaplain, Hospital Chaplain, Campus Chaplain\n\nEducation\nBA in Jodo Shinshu Studies\nMA in Buddhist Studies\nMBA in Public Administration\n\nMelissa Opel, Reverend / Minister's Assistant:\nMinister’s Assistant at Spokane Buddhist Temple, Received Tokudo Ordination in 2019"
+    },
+    {
+      "id": 16,
+      "name": "Prof./MA Erik Hammerstrom and Rev. Takashi Miyaji",
+      "image": "MiyajiandErik.jpg",
+      "title": "Dana for World Peace Speakers",
+      "background": "Erik Hammerstrom, Professor of Religious Studies and Minister's Assistant of Tacoma Buddhist Temple:\nErik previously acted as a speaker at a NW District Convention on the topic of the Millennial Generation.\nPh.D., Religious Studies, Indiana University, 2010\nM.A., Religion (Asian), University of Hawai'i, 2003\nB.A., Sarah Lawrence College, 1997\n\nTakashi Miyaji, Reverend of Tacoma Buddhist Temple:\nRev. Takashi Miyaji has been a minister of the Tacoma Buddhist Temple since December of 2017. He grew up in Los Angeles, California. He has graduated from the University of California at Berkeley with a Bachelor’s Degree in Philosophy and Japanese language and literature, Institute of Buddhist Studies at Berkeley, California with a Master’s in Buddhist Studies, Ryukoku University in Kyoto, Japan with a Master’s Degree in Shin Buddhist Studies, and completed the doctoral coursework at Ryukoku University. He specializes in the areas of Japanese Buddhism and religion, translation of Buddhist scripture, and Jodo Shinshu doctrine and ethics. He received his doctorate from the Humanities Department at Ryukoku University, specializing in Shin Buddhist Studies."
+    },
+    {
+      "id": 17,
+      "name": "Rev. Dr. David Matsumoto, Rev. Dr. Mutsumi Fujiwara Wondra, and Rev. Dr. Takashi Miyaji",
+      "image" : "wisteria.jpg",
+      "title": "IBS & CBE Symposium Speakers",
+      "background": "Speakers for Symposium."
+    }
+  ]
 }

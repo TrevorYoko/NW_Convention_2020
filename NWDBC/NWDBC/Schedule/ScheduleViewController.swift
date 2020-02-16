@@ -174,9 +174,6 @@ class ScheduleViewController: UIViewController, UITableViewDelegate, UITableView
                 }
             }
             
-            if roomIds.contains(12) || roomIds.contains(13) || roomIds.contains(14) || roomIds.contains(15) || roomIds.contains(20) {
-                roomNameString.append(" (2nd Floor)")
-            }
             
             var timeString = ""
             if let startString = eventInfo.startTime, let endString = eventInfo.endTime {

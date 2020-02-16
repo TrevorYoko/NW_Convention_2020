@@ -50,81 +50,89 @@ class CommitteeViewController : UITableViewController {
         
         
         switch indexPath.row {
-        case 0:
-            titleText = "Convention Co-Chairs"
-            subtitleText = "Charlene Grinolds, Sharon Kosai, Valerie Yamanaka"
-            break
-        case 1:
-            titleText = "Advisor"
-            subtitleText = "Rev. Jim Warrick"
-            break
-        case 2:
-            titleText = "Banquet Centerpieces"
-            subtitleText = "Barbara Akiyama"
-            break
-        case 3:
-            titleText = "Banquet Program"
-            subtitleText = "Valerie Yamanaka"
-            break
-        case 4:
-            titleText = "Dharma School"
-            subtitleText = "Rona Warrick"
-            break
-        case 5:
-            titleText = "Entertainment"
-            subtitleText = "Don & Judy Gardner, Reese Morikubo"
-            break
-        case 6:
-            titleText = "Equipment Transportation"
-            subtitleText = "Charles Natsuhara"
-            break
-        case 7:
-            titleText = "Hospitality"
-            subtitleText = "Alva Nishimura, Curtis Yamanaka"
-            break
-        case 8:
-            titleText = "Hotel Coordinator"
-            subtitleText = "Charlene Grinolds"
-            break
-        case 9:
-            titleText = "Meals"
-            subtitleText = "Shirley Kanda, Kathryn Natsuhara"
-            break
-        case 10:
-            titleText = "Mobile App"
-            subtitleText = "Curtis Yamanaka"
-        case 11:
-            titleText = "Program Booklet Design"
-            subtitleText = "Kendall Kosai, Sharon Kosai, Valerie Yamanaka"
-            break
-        case 12:
-            titleText = "Program Booklet Artwork"
-            subtitleText = "Tessa Asato"
-            break
-        case 13:
-            titleText = "Programming"
-            subtitleText = "Charlene Grinolds, Rev. Jim Warrick, Valerie Yamanaka"
-            break
-        case 14:
-            titleText = "Registration"
-            subtitleText = "Kelsey Asato"
-            break
-        case 15:
-            titleText = "Schedule"
-            subtitleText = "Kendall Kosai, Sharon Kosai"
-            break
-        case 16:
-            titleText = "Services"
-            subtitleText = "Ron Murakami, Rev. Jim Warrick"
-            break
-        case 17:
-            titleText = "Social Media"
-            subtitleText = "Tessa Asato"
-            break
-        case 18:
-            titleText = "Sponsorship"
-            subtitleText = "Kendall Kosai"
-            break
+            case 0:
+                      titleText = "Convention Co-Chairs"
+                      subtitleText = "Charlene Grinolds, Leanne Nishi-Wong, Alan Hoshino"
+                      break
+                  case 1:
+                      titleText = "Advisor"
+                      subtitleText = "Rev. Katsuya Kusunoki"
+                      break
+                  case 2:
+                      titleText = "Banquet Centerpieces"
+                      subtitleText = "Susie Taketa, Julianne Tosaya"
+                      break
+                  case 3:
+                      titleText = "Banquet Program"
+                      subtitleText = "Jason, Curtis and Trevor Yokoyama"
+                      break
+                  case 4:
+                      titleText = "Dharma School"
+                      subtitleText = "Yvette Terada, Erin Taylor"
+                      break
+                  case 5:
+                      titleText = "Entertainment"
+                      subtitleText = "Connie Ozeki-Chinn, Tara Tamaribuchi-Gibbs"
+                      break
+                  case 6:
+                      titleText = "Equipment Transportation"
+                      subtitleText = "Gary Shibata, Craig Nakashima"
+                      break
+                  case 7:
+                      titleText = "Hospitality"
+                      subtitleText = "Joan Nakano, Marie Kosai-Luke"
+                     break
+                 case 8:
+                     titleText = "Hotel Coordinator"
+                     subtitleText = "Alan Hoshino"
+                     break
+                 case 9:
+                     titleText = "Meals"
+                     subtitleText = "Alan Hoshino"
+                     break
+                 case 10:
+                     titleText = "Mobile App"
+                     subtitleText = "Evan Ko, Bryce Matsuda, Curtis Yokoyama, Trevor Yokoyama, Curtis Yamanaka"
+                 case 11:
+                     titleText = "Program Booklet Design"
+                     subtitleText = "Kendall Kosai"
+                     break
+                 case 12:
+                     titleText = "Program Booklet Artwork"
+                     subtitleText = "Alex Sakamoto"
+                     break
+                 case 13:
+                     titleText = "Programming"
+                     subtitleText = "Connor McKinney, Dean O'Shields, Emily Ko, Evan Ko"
+                     break
+                 case 14:
+                     titleText = "Registration"
+                     subtitleText = "Marie Kosai-Luke, Steph Ojima"
+                     break
+                 case 15:
+                     titleText = "Services"
+                     subtitleText = "Rev. Katsuya Kusunoki"
+                     break
+                 case 16:
+                     titleText = "Social Media"
+                     subtitleText = "Alex Sakamoto"
+                     break
+                 case 17:
+                     titleText = "Sponsorship"
+                     subtitleText = "Karen and Yukio Morikubo"
+                     break
+                 case 18:
+                     titleText = "Graphic Support"
+                     subtitleText = "Yoko Yanari"
+                     break
+                 case 19:
+                     titleText = "Music"
+                     subtitleText = "Kemi Nakabayashi"
+                     break
+                 case 20:
+                     titleText = "Transportation"
+                     subtitleText = "Sam Umeda"
+                     break
         default:
             break
         }

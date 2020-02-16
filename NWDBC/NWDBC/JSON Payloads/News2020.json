@@ -1,23 +1,37 @@
 {
-	"events" : [
-		{
-			"timestamp" : "2019-02-15T16:00:00-08:00",
-			"title" : "Welcome",
-			"description" : "We're looking forward to an exciting weekend at the 73nd NW Buddhist Convention and BCA National Council Meeting. Use this app to view the schedule, see info abut the ministers and community speakers, keep up with the latest news, and view a map of the venue.",
-			"link" : {
-				"title" : "View More",
-				"url" : "http://www.google.com"
-			}
-		},
-		{
-			"timestamp" : "2019-02-15T16:00:00-08:00",
-			"title" : "View the Schedule",
-			"description" : "Browse the conference schedule to find activites, workshops, and services",
-			"images" : ["https://assets3.thrillist.com/v1/image/1299823/size/tl-horizontal_main_2x.jpg", "https://assets3.thrillist.com/v1/image/1299823/size/tl-horizontal_main_2x.jpg", "https://assets3.thrillist.com/v1/image/1299823/size/tl-horizontal_main_2x.jpg", "https://assets3.thrillist.com/v1/image/1299823/size/tl-horizontal_main_2x.jpg", "https://assets3.thrillist.com/v1/image/1299823/size/tl-horizontal_main_2x.jpg"],
-			"link" : {
-				"title" : "View More",
-				"url" : "http://www.google.com"
-			}
-		}
-	]
+  "events": [
+    {
+      "timestamp": "2020-02-18T16:00:00-08:00",
+      "title": "Welcome",
+      "description": "We're looking forward to an exciting week and weekend at the 73nd NW Buddhist Convention and National Concuil Meeting. Use this app to view the schedule, see info about the ministers and community speakers."
+    },
+    {
+      "timestamp": "2020-02-22T10:20:00-08:00",
+      "title": "Sing Namo Amida Butsu",
+      "description": "Please click the \"Session Link\" to access the session material. If the website is not responding, please press the bottom right button and select \"Open in Safari\"",
+      "link": {
+        "title": "Session Link",
+        "url": "https://seattlebetsuin.com/music"
+      }
+    },
+    {
+       "timestamp": "2020-02-20T12:00:00-08:00",
+       "title": "Food around the Landing",
+       "description": "Please click the \"Food Link\" to access The Landing Dinning Options. If the website is not responding, please press the bottom right button and select \"Open in Safari\"",
+       "link": {
+         "title": "Food Link",
+         "url": "https://www.thelandinginrenton.com/dine"
+       }
+     },
+    {
+      "timestamp": "2020-02-22T14:45:00-08:00",
+      "title": "Dana for World Peace",
+      "description": "Please click the \"Session Link\" to be apart of this Session. If the wevbsite is not responding, please press the bottom right button and select \"Open in Safari\"",
+      "link": {
+        "title": "Session Link",
+        "url": "https://pollev.com/sbetsuin717"
+      }
+    }
+  ]
 }
+

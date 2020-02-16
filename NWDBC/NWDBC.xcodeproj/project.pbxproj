@@ -106,6 +106,11 @@
 		8190A9FD1F9D3B179EA527E9 /* Pods_NWDBCTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 96EB1108C5A25E40C839919C /* Pods_NWDBCTests.framework */; };
 		E946ABC823F8B5A900528DDE /* wisteria.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E946ABC723F8B5A900528DDE /* wisteria.jpg */; };
 		E946ABCA23F9B9AB00528DDE /* revyuki.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E946ABC923F9B9AB00528DDE /* revyuki.jpg */; };
+		E946ABCC23F9CE0700528DDE /* BCAMinistersServiceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E946ABCB23F9CE0700528DDE /* BCAMinistersServiceViewController.swift */; };
+		E946ABD023F9D18900528DDE /* BCAMinistersMorningServiceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E946ABCF23F9D18900528DDE /* BCAMinistersMorningServiceViewController.swift */; };
+		E946ABD223F9E01200528DDE /* BCANCOpeningServiceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E946ABD123F9E01200528DDE /* BCANCOpeningServiceViewController.swift */; };
+		E946ABD423F9E50700528DDE /* BCANWOpeningServiceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E946ABD323F9E50700528DDE /* BCANWOpeningServiceViewController.swift */; };
+		E946ABD623F9EE3100528DDE /* Advertisements2020.pdf in Resources */ = {isa = PBXBuildFile; fileRef = E946ABD523F9EE3100528DDE /* Advertisements2020.pdf */; };
 		E996931B23F8AC990020C440 /* Kemi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E996930623F8AC980020C440 /* Kemi.jpg */; };
 		E996931C23F8AC990020C440 /* james_dobbins.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E996930723F8AC990020C440 /* james_dobbins.jpg */; };
 		E996931D23F8AC990020C440 /* AyanoandKaori.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E996930823F8AC990020C440 /* AyanoandKaori.jpg */; };
@@ -269,6 +274,11 @@
 		DE2A2B2542B703ED5353FEAF /* Pods_NWDBC.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NWDBC.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E946ABC723F8B5A900528DDE /* wisteria.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wisteria.jpg; sourceTree = "<group>"; };
 		E946ABC923F9B9AB00528DDE /* revyuki.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = revyuki.jpg; sourceTree = "<group>"; };
+		E946ABCB23F9CE0700528DDE /* BCAMinistersServiceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BCAMinistersServiceViewController.swift; sourceTree = "<group>"; };
+		E946ABCF23F9D18900528DDE /* BCAMinistersMorningServiceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BCAMinistersMorningServiceViewController.swift; sourceTree = "<group>"; };
+		E946ABD123F9E01200528DDE /* BCANCOpeningServiceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BCANCOpeningServiceViewController.swift; sourceTree = "<group>"; };
+		E946ABD323F9E50700528DDE /* BCANWOpeningServiceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BCANWOpeningServiceViewController.swift; sourceTree = "<group>"; };
+		E946ABD523F9EE3100528DDE /* Advertisements2020.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Advertisements2020.pdf; sourceTree = "<group>"; };
 		E996930623F8AC980020C440 /* Kemi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Kemi.jpg; sourceTree = "<group>"; };
 		E996930723F8AC990020C440 /* james_dobbins.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = james_dobbins.jpg; sourceTree = "<group>"; };
 		E996930823F8AC990020C440 /* AyanoandKaori.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AyanoandKaori.jpg; sourceTree = "<group>"; };
@@ -371,6 +381,10 @@
 				7734824421AB529200919E3D /* ClosingServiceViewController.swift */,
 				776DFD9D21F0535200776A8F /* TextViewDetailsViewController.swift */,
 				771315122210954A0049A57A /* DisclosureTableViewCell.swift */,
+				E946ABCB23F9CE0700528DDE /* BCAMinistersServiceViewController.swift */,
+				E946ABCF23F9D18900528DDE /* BCAMinistersMorningServiceViewController.swift */,
+				E946ABD123F9E01200528DDE /* BCANCOpeningServiceViewController.swift */,
+				E946ABD323F9E50700528DDE /* BCANWOpeningServiceViewController.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -549,6 +563,7 @@
 		77F0824D2148C79E0018F327 /* More */ = {
 			isa = PBXGroup;
 			children = (
+				E946ABD523F9EE3100528DDE /* Advertisements2020.pdf */,
 				7713151C221138370049A57A /* Advertisements.pdf */,
 				77F082522148C7C50018F327 /* MoreViewController.swift */,
 				771314FC220F72B60049A57A /* CommitteeViewController.swift */,
@@ -822,6 +837,7 @@
 				771314F9220E4DE40049A57A /* welcome_mizuki.pdf in Resources */,
 				E996932823F8AC990020C440 /* Jessica.jpg in Resources */,
 				771314F7220E4DE40049A57A /* welcome_warrick.pdf in Resources */,
+				E946ABD623F9EE3100528DDE /* Advertisements2020.pdf in Resources */,
 				77131501220F9ABC0049A57A /* spencer.jpg in Resources */,
 				E996933523F8ACD30020C440 /* Ministers2020.json in Resources */,
 				77F350D12201527B007AC9CA /* Hirano_d.jpg in Resources */,
@@ -966,6 +982,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				771314FD220F72B60049A57A /* CommitteeViewController.swift in Sources */,
+				E946ABD423F9E50700528DDE /* BCANWOpeningServiceViewController.swift in Sources */,
 				77F350D922015475007AC9CA /* ProfileImageViewController.swift in Sources */,
 				776DFD8221C73D8B00776A8F /* ProfileInfoViewController.swift in Sources */,
 				77F08257214A14120018F327 /* EventInfo.swift in Sources */,
@@ -983,6 +1000,7 @@
 				77F984322213E3E70031DFBE /* NotificationNameExtension.swift in Sources */,
 				77F08259214A15540018F327 /* NetworkManager.swift in Sources */,
 				77F350DF22064D4C007AC9CA /* NewsInfo.swift in Sources */,
+				E946ABCC23F9CE0700528DDE /* BCAMinistersServiceViewController.swift in Sources */,
 				77131511221092F90049A57A /* ScheduleTableViewCell.swift in Sources */,
 				7713150D220FBA080049A57A /* ScheduleSpeakerTableViewCell.swift in Sources */,
 				776DFD9821F0291400776A8F /* AppTheme.swift in Sources */,
@@ -1000,6 +1018,7 @@
 				771315132210954A0049A57A /* DisclosureTableViewCell.swift in Sources */,
 				776DFD9E21F0535200776A8F /* TextViewDetailsViewController.swift in Sources */,
 				77F08274214C0B200018F327 /* ProfileViewController.swift in Sources */,
+				E946ABD223F9E01200528DDE /* BCANCOpeningServiceViewController.swift in Sources */,
 				77F0824A21478E500018F327 /* NewsViewController.swift in Sources */,
 				7713152922138FDA0049A57A /* CustomFlowLayout.swift in Sources */,
 				7734826521C21E9F00919E3D /* GreetingsCell.swift in Sources */,
@@ -1009,6 +1028,7 @@
 				77F08262214B6A7A0018F327 /* RoomInfo.swift in Sources */,
 				77F350E122064E57007AC9CA /* NewsManager.swift in Sources */,
 				77F08264214B6B1F0018F327 /* RoomManager.swift in Sources */,
+				E946ABD023F9D18900528DDE /* BCAMinistersMorningServiceViewController.swift in Sources */,
 				77F08276214C0B3B0018F327 /* MinisterProfilesViewController.swift in Sources */,
 				7734824521AB529200919E3D /* ClosingServiceViewController.swift in Sources */,
 				77F0824F2148C7AD0018F327 /* HomeViewController.swift in Sources */,

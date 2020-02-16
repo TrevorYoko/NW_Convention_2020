@@ -172,19 +172,12 @@ class HomeViewController: UIViewController, UICollectionViewDelegate, UICollecti
         title.font = UIFont.boldSystemFont(ofSize: 16)
         contentView.addSubview(title)
         
-        let content = UITextView.init()
+        let content = UILabel.init()
         content.translatesAutoresizingMaskIntoConstraints = false
         content.textColor = UIColor.black
         content.text = NSLocalizedString("theme.content", comment: "Description of theme")
-        content.attributedText = NSAttributedString(string: "https://pollev.com/sbetsuin717")
-        content.isEditable = false
-        content.isSelectable = true
-        content.dataDetectorTypes = UIDataDetectorTypes.all
-        
-            
-        //content.u
-        //content.numberOfLines = 4
-        //content.lineBreakMode = .byTruncatingTail
+        content.numberOfLines = 4
+        content.lineBreakMode = .byTruncatingTail
         content.font = UIFont.systemFont(ofSize: 14)
         contentView.addSubview(content)
         
