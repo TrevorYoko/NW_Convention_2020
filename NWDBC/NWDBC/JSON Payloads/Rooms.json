@@ -22,7 +22,7 @@
     },
     {
       "id": 6,
-      "name": "Rainer"
+      "name": "Rainier"
     },
     {
       "id": 7,
@@ -87,6 +87,11 @@
     {
       "id": 22,
       "name": "Hotel Lobby"
+    },
+    {
+      "id": 23,
+      "name": "Grand Ballroom 7"
     }
+    
   ]
 }
