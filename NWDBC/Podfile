@@ -1,0 +1,26 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '11.0'
+
+target 'NWDBC' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for NWDBC
+  pod 'Pulley', '~> 2.4.0'
+  pod 'UrbanAirship-iOS-SDK'
+  pod 'Firebase/Core'
+  pod 'Firebase/Performance'
+  pod 'Crashlytics', '~> 3.12.0'
+  pod 'SDWebImage'
+
+  target 'NWDBCTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'NWDBCUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

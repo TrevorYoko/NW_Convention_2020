@@ -1,0 +1,248 @@
+{
+    "people" : [
+                {
+                "id" : 3,
+                "name" : "Rev. Kodo Umezu",
+                "image" : "umezu.jpg",
+                "secondary_image" : "umezu_d.jpg",
+                "title" : "Bishop",
+                "birthplace" : "Fukuoka Prefecture, Japan",
+                "background" : "Rev. Umezu received his B.A. from Ryukoku University in Kyoto in 1973, and his M.A. from the Institute of Buddhist Studies in Berkeley in 1976. After arriving in the United States in 1973, he served at the Fresno Betsuin Buddhist Temple until 1976. He served in the U.S. Navy from 1976 to 1980. He then served at the Los Angeles Betsuin and Buddhist Church of Oakland before being reassigned to serve as the Executive Assistant to the Bishop in 1996. In 2005, he was appointed as the Interim Director of the Center for Buddhist Education. He became the full Director in 2006. In April 2012, Rev. Umezu was elected Bishop of the Buddhist Churches of America, and is currently serving his second term. He is also the Chancellor of the Institute of Buddhist Studies and Editor-in-Chief of the Wheel of Dharma."
+                },
+                {
+                "id" : 1,
+                "name" : "Rev. Matthew Hamasaki",
+                "image" : "hamasaki.jpg",
+                "secondary_image" : "hamasaki_d.jpg",
+                "title" : "Minister",
+                "temple" : "Buddhist Church of Sacramento",
+                "birthplace" : "Berkeley, CA",
+                "background" : "After graduating Berkeley High he got his Bachelors in Arts in Religious Studies from UC Davis and went on to get his Masters in Buddhist Studies from IBS. After receiving ordination in Japan he was assigned to the Central California District for two years before being transferred to the Buddhist Church of Sacramento in January 2018.",
+                "facts" : [
+                           {
+                           "title" : "What characteristic do you most admire in others?",
+                           "description" : "The ability to empathize."
+                           },
+                           {
+                           "title" : "What's the most important lesson you've learned in the last year?",
+                           "description" : "Balancing time by saying “no” to things."
+                           },
+                           {
+                           "title" : "If we went to happy hour, what would you order?",
+                           "description" : "Whiskey on the rocks."
+                           }
+                           ]
+                },
+                {
+                "id" : 2,
+                "name" : "Rev. Jim Warrick",
+                "image" : "warrick.jpg",
+                "secondary_image" : "warrick_d.jpg",
+                "title" : "Minister",
+                "temple" : "White River Buddhist Temple",
+                "background" : "Reverend Jim Warrick got his start in the field of electronics while serving in the U.S. Air Force during the Vietnam War. After returning to civilian life he furthered his studies in electronics at Bossier College in Shreveport, LA. He has worked in the private sector in the field of Biomedical Engineering for 40 years, and retired from General Electric in 2014. After studying for several years and serving as a minister’s assistant, in 2003 he received Tokudo ordination as a Buddhist priest from our mother temple, Nishi Hongwanji in Kyoto, Japan. He continued his studies and in 2007 received Kyoshi certification from Nishi Hongwanji and was recognized by the BCA as a part time volunteer Kyoshi minister at the Seattle Betsuin. After retiring, he and wife, Rona, traveled extensively. They’ve decided to take a break from retirement and their travels and spend their time spreading the Nembutsu teaching.",
+                "facts" : [
+                           {
+                           "title" : "Family",
+                           "description" : "Married to Rona Warrick for the last eighteen wonderful years. We have five children between us, four girls and one boy, and seven grandchildren, six girls ages, 12 to 22 years old, and one grandson, age 10."
+                           },
+                           {
+                           "title" : "If we went to happy hour, what would you order?",
+                           "description" : "A Roy Rogers on ice"
+                           },
+                           {
+                           "title" : "What would you be doing if you weren’t a minister?",
+                           "description" : "I would be on a cruise ship in the South Pacific."
+                           },
+                           {
+                           "title" : "If you were to tell one person \"Thank You\" for helping me become the person I am today, who would it be and what did they do?",
+                           "description" : "My wife Rona. She taught me that \"a happy wife makes a happy life\"."
+                           },
+                           {
+                           "title" : "What characteristic do you most admire in others?",
+                           "description" : "Honesty"
+                           }
+                           ]
+                },
+                {
+                "id" : 4,
+                "name" : "Rinban Katsuya Kusonoki",
+                "image" : "Kusunoki.jpg",
+                "secondary_image" : "Kusunoki_d.jpg",
+                "title" : "Minister",
+                "birthplace" : "Nagasaki, Japan",
+                "background" : "Reverend Katsuya Kusunoki is the Head Minister of the Seattle Betsuin Buddhist Temple. He is the second son of a temple family. Today his older brother Naoya is the 17th generation of their family to serve their family temple. He is a graduate of Miyazaki University where he majored in primary education and his hobby is to watch and play baseball and softball. While a college student he took a break and spent almost two and a half years in a Japanese volunteer program, similar to the Peace Corps, coaching baseball in Zimbabwe before returning to Japan to complete his studies. After graduating he spent three years teaching 3rd and 6th grade classes before deciding to become a minister. His advanced training includes the Hongwanji-ha Rituals course for leaders (Gonshiki). He is a Hongwanji-ha certified Special Rituals Minister, a certificate only he and our former minister Rev. Sala Sekiya hold within the Buddhist Churches of America. His first assignment in America was to the Lodi Buddhist Temple in 2010, and he was transferred to Seattle in April of 2017.",
+                "temple" : "Seattle Betsuin Buddhist Temple",
+                "facts" : [
+                           {
+                           "title" : "Family",
+                           "description" : "Wife, Ayano Kusunoki, and son, Yuiya Kusunoki"
+                           },
+                           {
+                           "title" : "Do you have any skills or talents that most people don’t know about?",
+                           "description" : "I have (had) a scuba diving license. (Maybe the license is already expired!)"
+                           },
+                           {
+                           "title" : "If we went to happy hour, what would you order?",
+                           "description" : "Shochu (from sweet potatoes)"
+                           },
+                           {
+                           "title" : "What would be your personal motto?",
+                           "description" : "No rush. One by one. Don’t hesitate. Just step forward. You will see what is going on."
+                           },
+                           {
+                           "title" : "What would you be doing if you weren’t a minister?",
+                           "description" : "MLB player or school teacher"
+                           },
+                           {
+                           "title" : "If you were to tell one person \"Thank You\" for helping me become the person I am today, who would it be and what did they do?",
+                           "description" : "I would like to say thank you to each person who has listened my Japan-glish dharma message."
+                           }
+                           ]
+                },
+                {
+                "id" : 9,
+                "name" : "Rev. Jerry Hirano",
+                "image" : "Hirano.jpg",
+                "secondary_image" : "Hirano_d.jpg",
+                "title" : "Minister",
+                "birthplace" : "Salt Lake City, Utah",
+                "background" : "Minister: Salt Lake, Ogden, Honeyville, IOBT\nCo-Director BCA Center for Buddhist Education\nCo-Executive Assistant to Bishop Umezu\nDirector of Minister’s Assistant Program",
+                "temple" : "Idaho Oregon Buddhist Temple",
+                "facts" : [
+                           {
+                           "title" : "Family",
+                           "description" : "Married to Rev. Dr. Carmela Javellana, daughters Kacie (23) and Taylor (19)"
+                           },
+                           {
+                           "title" : "Who is someone you admire, and why?",
+                           "description" : "My wife; she has to live with me. She came from a Third World country to finish her MD and dual boards at Ohio State and finished her IBS certificate in Jodo Shinshu Shinshu Studies. She carries on with her private practice while running the meditation program at temple with the other Minister’s Assistants at temple, along with running adult study class."
+                           },
+                           {
+                           "title" : "Name three words that you describe you.",
+                           "description" : "Blessed beyond belief"
+                           },
+                           {
+                           "title" : "What movie or novel character do you most identify with and why?",
+                           "description" : "Ebenezer Scrooge - not his miserly qualities, but a mean old man who, despite his shortcomings, the world embraced and taught to be grateful."
+                           }
+                           ]
+                },
+                {
+                "id" : 5,
+                "name" : "Rev. Yuki Sugahara",
+                "image" : "Sugahara.jpg",
+                "secondary_image" : "Sugahara_d.jpg",
+                "title" : "Minister",
+                "birthplace" : "Kurayoshi, Tottori, Japan",
+                "background" : "Born as a son of temple families in Shimane prefecture. Received Tokudo in 1996, Kyoshi in 2002 and Kaikyoshi in 2011. Graduated from Ritsumeikan University in Kyoto, major in Political Science and Musashino University in Tokyo, major in Human Science (Buddhist Studies).",
+                "temple" : "Oregon Buddhist Temple",
+                "facts" : [
+                           {
+                           "title" : "Family",
+                           "description" : "Namiko (wife), Aoi (6 year old daughter), and Hikaru (2 year old son)"
+                           },
+                           {
+                           "title" : "Who is someone you admire, and why?",
+                           "description" : "The late Rev. Jitsuen Kakehashi. His words in \"Seiten Seminar Kyogyoshinsho Shin no Maki\" (not yet translated) gave huge impact on understanding what the Tathagata’s “salvation” means. I will quote them below: \"Salvation of Tathagata\" is not to forgive and compensate what we have done. It is to give us right wisdom to recognize our false as false and give us courage and capacity to take responsibility for what we have done. It is to turn our self-centered idea to feel sympathy for the other’s pain (karuna/compassion) and to wish for people’s happiness (maitra/friend). It is to cultivate our mind to be able to know the importance of these mind."
+                           },
+                           {
+                           "title" : "Name three words that you describe you.",
+                           "description" : "Beer, Buddhism, Bass guitar"
+                           },
+                           {
+                           "title" : "What would you be doing if you weren’t a minister?",
+                           "description" : "Musician or Martial Artist or Mover or Izakaya worker."
+                           }
+                           ]
+                },
+                {
+                "id" : 6,
+                "name" : "Rev. Takashi Miyaji",
+                "image" : "Miyaji.jpg",
+                "secondary_image" : "Miyaji_d.jpg",
+                "title" : "Minister",
+                "birthplace" : "Ogden, Utah",
+                "background" : "He grew up in Los Angeles, California. He has graduated from the University of California at Berkeley with a Bachelor’s Degree in Philosophy and Japanese language and literature, Institute of Buddhist Studies at Berkeley, California with a Master’s in Buddhist Studies, Ryukoku University in Kyoto, Japan with a Master’s Degree in Shin Buddhist Studies, and completed the doctoral coursework at Ryukoku University. He specializes in the areas of Japanese Buddhism and religion, translation of Buddhist scripture, and Jodo Shinshu doctrine and ethics. Takashi has received his Tokudo and Kyoshi qualifications at the Honpa Hongwanji school located in Kyoto, Japan. He has been a minister at the Tacoma Buddhist Temple since December 2017, and is currently working on his dissertation on Shin Buddhist ethics. He also likes music and used to DJ.",
+                "temple" : "Tacoma Buddhist Temple",
+                "facts" : [
+                           {
+                           "title" : "Family",
+                           "description" : "Wife is Kaori Miyaji. She grew up in Kumamoto, Japan. Son is Keisai. He is 2."
+                           },
+                           {
+                           "title" : "What characteristic do you most admire in others?",
+                           "description" : "I admire friendliness in others."
+                           },
+                           {
+                           "title" : "What’s the most important lesson you’ve learned in the last year?",
+                           "description" : "I learned that making weekly dharma talks is very hard!"
+                           }
+                           ]
+                },
+                {
+                "id" : 11,
+                "name" : "Rev. Anne Spencer",
+                "image" : "AnneSpencer.jpg",
+                "secondary_image" : "spencer.jpg",
+                "title" : "Ministers Assistant",
+                "birthplace" : "Grayland, Washington",
+                "background" : " I graduated from Whitman College with a degree in Biology-Psychology 1987. I earned a Masters degree in Genetic Counseling from UC Berkeley in 1991 and a Masters in Buddhist Studies from Institute of Buddhist Studies/GTU in 2012. I received my Tokudo ordination in 2010 and my Kyoshi certificate in 2018. I am a licensed genetic counselor, currently working in private practice and teaching at Boise State University.",
+                "temple" : "Idaho Oregon Buddhist Temple",
+                "facts" : [
+                           {
+                           "title" : "Family",
+                           "description" : "Married for 31 years to Eric. We have one son, Quinn, who is 23 years old."
+                           },
+                           {
+                           "title" : "Do you have any skills or talents that most people don’t know about?",
+                           "description" : "I love working with leftovers and can turn almost anything I find in the refrigerator into a decent meal or dessert. My recipe for a pie I called “Creamy Cranana Razzle” won first place in a small-town cooking contest."
+                           },
+                           {
+                           "title" : "If you were to tell one person \"Thank You\" for helping me become the person I am today, who would it be and what did they do?",
+                           "description" : "My second grade teacher who was especially kind to me when I was going through a difficult time at school. Her name was Mrs. (or Miss) Yamamoto. She taught at Ocosta Elementary School in Westport, WA in the early 1970’s. My mother thinks she was from the Auburn area. If you know her, please let me know--I’d love to be able to thank her in person."
+                           },
+                           {
+                           "title" : "What characteristic do you most admire in others?",
+                           "description" : "The ability to listen and respond to others in a way that helps them feel they are important."
+                           },
+                           {
+                           "title" : "What superpower would you like to have?",
+                           "description" : "Super power glasses that would allow me to find lost items, especially my keys."
+                           }
+                           ]
+                },
+                {
+                "id" : 7,
+                "name" : "Walker Stahle",
+                "image" : "Walker.jpg",
+                "title" : "Program Director",
+                "temple" : "John Volken Academy",
+                "background" : "Walker Stahle is originally from Logan, Utah. Most of Walker’s career has been spent in hospitality. He attended school at the University of Alabama and has worked in a variety of hotel chains with various positions. As a recovering drug addict and alcoholic, Walker now works as the Program Director of the John Volken Academy in Kent, Washington.\n\nHe began with the John Volken Academy as a student and graduated from the program in May 2018. He then accepted the Program Director position at the John Volken Academy in Gilbert, AZ. He returned to the Seattle area last November to continue on as Program Director. He understands the struggles related to addiction and is helping others overcome their addictions."
+                },
+                {
+                "id" : 8,
+                "name" : "Duncan Ryuken Williams",
+                "image" : "Williams.jpg",
+                "secondary_image" : "williams_d.jpg",
+                "title" : "Author",
+                "background" : "Duncan Ryuken Williams was born in Tokyo, Japan to a Japanese mother and British father. After growing up in Japan and England until age 17, he moved to the U.S. to attend college (Reed College) and graduate school (Harvard University, where he received a Ph.D. in Religion). He ordained as a Sōtō Zen Buddhist priest in 1993 at Kotakuji Temple in Nagano, Japan. Williams is currently the Director of the USC Shinso Ito Center for Japanese Religions and Culture. Previously, he held the Ito Distinguished Chair of Japanese Buddhism at University of California at Berkeley and served as the Director of Berkeley’s Center for Japanese Studies. He also served as the Executive Vice President of Japan House/LA, a public diplomacy initiative of Japan’s Ministry of Foreign Affairs. Williams is the author of The Other Side of Zen: A Social History of Sōtō Zen Buddhism in Tokugawa Japan (Princeton University Press) and editor of 7 books including Issei Buddhism in the Americas (U-Illinois Press), American Buddhism (Routledge/Curzon Press), Hapa Japan: History, Identity, and Representations of Mixed Race/Mixed Roots Japanese Peoples (Ito Center/Kaya Press), and Buddhism and Ecology (Harvard University Press). He has also translated four books from Japanese into English including Putting Buddhism to Work: A New Theory of Economics and Business Management (Kodansha). He has a forthcoming book American Sutra: A Story of Faith and Freedom in the Second World War (Harvard University Press, February 2019)."
+                },
+                {
+                "id" : 12,
+                "name" : "Anthony David Gipe",
+                "image" : "gipe.jpg",
+                "secondary_image" : "gipe_d.jpg",
+                "title" : "Attorney",
+                "background" : "Anthony David Gipe started a practice in law after a short career as an intelligence analyst and interpreter. Anthony has focused on complex civil litigation his entire career, in Oregon, Washington, and California, in the areas of Civil Rights, Business Litigation, Personal Injury, Family Law, and Gay and Lesbian Law. Anthony has handled dozens of trials in state and federal courts.\n\nAnthony’s current practice also includes advising other attorneys in their practices, including ethics, employment matters, and related issues.\n\nAnthony spends half his time working as a judicial officer, serving as a pro tem judge in King County District Court, City of Seattle, and City of Kent, and part of his practice includes serving as an arbiter and mediator.\n\nAnthony devotes significant time to volunteering in the profession. He was a founding board member and faculty of the Washington State Bar Association Leadership Institute Advisory Board since its inception. He is also a founding board member of QLAW and other minority bar associations. Finally, Anthony has served within the Washington State Bar Association for fifteen years including as a committee chair, At Large Governor, and he served as President of the WSBA in 2013-2016.\n\nAnthony has degrees and credentials in linguistics, Russian language, art, and comparative history, in addition to his Juris Doctor from the University of Washington School of Law. Washington Law & Politics readers voted Anthony a \"Rising Star\" in the legal profession in 2002 and 2003 and as a \"Super Lawyer\" in 2015-17.\nWhen Anthony is not practicing law, he pursues his hobbies in fitness, fine arts, and painting."
+                },
+                {
+                               "id" : 13,
+                               "name" : "Test new Minister",
+                               "image" : "gipe.jpg",
+                               "secondary_image" : "gipe_d.jpg",
+                               "title" : "Test Minister",
+                               "background" : "Test Background to for sizing purposes and to be used to replace existing data and to fill in with new data."
+                               },
+                ]
+}

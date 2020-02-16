@@ -1,0 +1,88 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Mercer Terace"
+    },
+    {
+      "id": 2,
+      "name": "Bellevue I"
+    },
+    {
+      "id": 3,
+      "name": "Bellevue II"
+    },
+    {
+      "id": 4,
+      "name": "Baker"
+    },
+    {
+      "id": 5,
+      "name": "Adams"
+    },
+    {
+      "id": 6,
+      "name": "Rainer"
+    },
+    {
+      "id": 7,
+      "name": "Renton Club"
+    },
+    {
+      "id": 8,
+      "name": "Seattle"
+    },
+    {
+      "id": 9,
+      "name": "West Seattle"
+    },
+    {
+      "id": 10,
+      "name": "Lake Washington Terrace"
+    },
+    {
+      "id": 11,
+      "name": "Olypic Terrace"
+    },
+    {
+      "id": 12,
+      "name": "Olympic Pavillion"
+    },
+    {
+      "id": 13,
+      "name": "Lake Washington Ballroom I"
+    },
+    {
+      "id": 14,
+      "name": "Lake Washington Ballroom II"
+    },
+    {
+      "id": 15,
+      "name": "Grand Ballroom (1st Floor)"
+    },
+    {
+      "id": 16,
+      "name": "Executive Boardroom"
+    },
+    {
+      "id": 17,
+      "name": "Presidential Suite 861 (8th Floor)"
+    },
+    {
+      "id": 18,
+      "name": "Water's Table or Cafe (2nd Floor \"Lobby Level\")"
+    },
+    {
+      "id": 19,
+      "name": "Grand Prefunction (1st Floor)"
+    },
+    {
+      "id": 20,
+      "name": "Grand Stair Prefunction (1st Floor)"
+    },
+    {
+      "id": 21,
+      "name": "Water's Table (2nd Floor \"Lobby Level\")"
+    }
+  ]
+}

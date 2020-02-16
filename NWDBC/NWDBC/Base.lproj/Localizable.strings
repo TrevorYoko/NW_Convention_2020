@@ -1,0 +1,48 @@
+/* 
+  Localizable.strings
+  NWDBC
+
+  Created by Curtis Yamanaka on 9/10/18.
+  Copyright © 2018 Curtis Yamanaka. All rights reserved.
+*/
+
+"tabLabel.schedule" = "Schedule";
+
+"tabLabel.news" = "News";
+
+"tabLabel.home" = "Home";
+
+"tabLabel.venue" = "Venue";
+
+"tabLabel.more" = "More";
+
+"title.schedule" = "Schedule";
+
+"title.news" = "News";
+
+"title.home" = "Home";
+
+"title.venue" = "Venue";
+
+"title.more" = "More";
+
+"theme.content" = "Please join us at 2:45PM in the Grand Ballroom on Saturday February 22nd for an interactive group session about our theme \"Dana for World Peace\". \n\n To find URL Link for this session, please go to the \"News\" section.";
+
+"openingService.templeRepresentatives" = "Buddhist Churches of America\nNW District Council\nNW District Buddhist Women’s Association\nNW Dharma School Teachers’ League\nNW Young Buddhist League\nYoung Adult Buddhist Association\nIdaho-Oregon Buddhist Temple\nOregon Buddhist Temple\nSeattle Betsuin Buddhist Temple\nSpokane Buddhist Temple\nTacoma Buddhist Temple\nVancouver Buddhist Temple\nYakima Buddhist Temple (including Columbia Basin)\nWhite River Buddhist Temple\n";
+
+"closingService.installationOfOfficers" = "NW District Council\nNW District Buddhist Women's Association\nNW Young Buddhist League\nNW Dharma School Teacher's League";
+
+"juseige" = "○○\n# Ga gon cho se gan\nHis-shi mu jo do\nShi gan fu man zoku\nSei fu jo sho gaku\n\nGa o mu ryo ko\nFu i dai se shu\nFu sai sho bin gu\nSei fu jo sho gaku\n\nGa shi jo butsu do\nMyo sho cho jip-po\nKu kyo mi sho mon\nSei fu jo sho gaku\n\nRi yoku jin sho nen\nJo e shu bon gyo\nShi gu mu jo do\nI sho ten nin shi\n\nJin riki en dai ko\nFu sho mu sai do\nSho jo san ku myo\nKo sai shu yaku nan\n\nKai hi chi e gen\nMes-shi kon mo an\nHei soku sho aku do\nTsu datsu zen shu mon\n\nKo so jo man zoku\nI yo ro jip-po\nNichi gatsu shu ju ki\nTen ko on pu gen\n\nI shu kai ho zo\nKo se ku doku ho\nJo o dai shu chu\nSep-po shi shi ku\n\nKu yo is-sai butsu\nGu soku shu toku hon\nGan e shitsu jo man\nToku i san gai o\n\nNyo butsu mu ge chi\nTsu datsu mi fu sho\nGan ga ku e riki\nTo shi sai sho son\n\nShi gan nya ko ka\nDai sen o kan do\nKo ku sho ten nin\nTo u chin myo ke\n\n○\n# Na man da bu\n○\nNa man da bu\nNa man da bu\nNa man da bu\nNa man da bu\nNa man da bu\n○\n\n(ekoku)\n# Gan ni shii ku do ku\nByo do se issai\nDo hon bo dai shin\nO jo u an ra ko (ku)\n\n○○○";
+
+"threeTreasures" = "Leader:\nFortunate is it to be born into human life. Now we are living it. Rare is it to encounter the Teachings of the Buddha. Now we hear it. If we do not seek the Truth of the Dharma in this life, in what life shall we find it? Let us reverently take refuge in the Three Treasures of the Truth.\n\nSangha:\nI TAKE REFUGE IN BUDDHA. May we all together absorb into ourselves the principle of the Way to Enlightenment and awaken within us our highest aspiration.\n\nI TAKE REFUGE IN DHARMA. May we all together be submerged in the depth of the Dharma and gain wisdom as deep as the ocean.\n\nI TAKE REFUGE IN SANGHA. May we all together become units in true accord in a life of harmony, in a spirit of universal brotherhood, freed from the bondage of selfishness.\n\nLeader:\nEven through ages of myriads of kalpas hard is it to hear such an excellent, profound, and wonderful teaching. Now we are able to hear and receive it. Let us thoroughly understand the true meaning of Tathagata’s Teaching.";
+
+"sanbutsuge" = "○○\n# Ko gen gi gi\nI jin mu goku\nNyo ze en myo\nMu yo to sha\n\nNichi gatsu ma ni\nShu ko en nyo\nKai shitsu on pei\nYu nyaku ju moku\n\nNyo rai yo gen\nCho se mu rin\nSho gaku dai on\nKo ru jip-po\n\nKai mon sho jin\nSan mai chi e\nI toku mu ryo\nShu sho ke u\n\nJin tai zen nen\nSho butsu ho kai\nGu jin jin no\nKu go gai tai\n\nMu myo yoku nu\nSe son yo mu\nNin o shi shi\nJin toku mu ryo\n\nKu kun ko dai\nChi e jin myo\nKo myo i so\nShin do dai sen\n\nGan ga sa butsu\nZai sho ho o\nKa do sho ji\nMi fu ge datsu\n\nFu se jo I\nKai nin sho jin\nNyo ze san mai\nChi e i jo\n\nGo sei toku butsu\nFu gyo shi gan\nIs-sai ku ku\nI sa dai an\n\nKe shi u butsu\nHyaku sen noku man\nMu ryo dai sho\nShu nyo go ja\n\nKu yo is-sai\nShi to sho butsu\nFu nyo gu do\nKen sho fu gyaku\n\nHi nyo go ja\nSho butsu se kai\nBu fu ka ge\nMu shu setsu do\n\nKo myo shis-sho\nHen shi sho koku\nNyo ze sho jin\nI jin nan ryo\n\nRyo ga sa butsu\nKoku do dai ichi\nGo shu ki myo\nDo jo cho zetsu\n\nKoku nyo nai on\nNi mu to so\nGa to ai min\nDo datsu is-sai\n\nJip-po rai sho\nShin-netsu sho jo\nI to ga koku\nKe raku an-non\n\nKo butsu shin myo\nZe ga shin sho\nHotsu gan no hi\nRiki sho sho yoku\n\nJip-po se son\nChi e mu ge\nJo ryo shi son\nChi ga shin gyo\n\nKe ryo shin shi\nSho ku doku chu\nGa gyo sho jin\nNin ju fu ke\n\n○# Na man da bu\n○\nNa man da bu\nNa man da bu\nNa man da bu\nNa man da bu\nNa man da bu\n○\n\n(ekoku)\n# Gan ni shii ku do ku\nByo do se issai\nDo hon bo dai shin\nO jo u an ra ko (ku)\n\n○○○";
+
+"donors" = "White River Buddhist Temple would like to express our deepest appreciation to the following businesses for their generous gifts toward the convention.\n\nIvars\nMuseum of Popular Culture\nSeafair\nSeattle Mariners\nSugimoto Tea\nUwajimaya";
+
+"conventionBoosters" = "Mr. & Mrs. Robert Akiyama\nAsato Ohana\nRandy & Eva Chun\nRoger & Shirley Fukai\nBill & Norma Geenty\nCharlene & Lorin Grinolds\nJoan & Dave Hoskin\nRosie, Mike, & Louise Kato\nLily Kato\nStogie & Pat Kawabata\nMark & Sharon Kosai\nWayne & Sally Mizuki\nRon & Karen Murakami\nKathryn Natsuhara\nCharles Natsuhara\nRandy Okimoto\nIts & Yuri Shiotani\nTaketa/McKinney Family\nMark & Ruth Terry\nTakako Uchida\nRev. Jim & Rona Warrick\nDarlene Yamada\nYoshiko Yamada\nDennis Yamashita";
+
+
+
+
+

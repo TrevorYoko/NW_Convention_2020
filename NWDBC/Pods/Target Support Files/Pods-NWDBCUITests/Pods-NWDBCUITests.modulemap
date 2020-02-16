@@ -1,0 +1,6 @@
+framework module Pods_NWDBCUITests {
+  umbrella header "Pods-NWDBCUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

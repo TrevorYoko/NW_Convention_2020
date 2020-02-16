@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>921235912575-b15oir5qm3ft0l5osjtsse0f0jrmkei1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.921235912575-b15oir5qm3ft0l5osjtsse0f0jrmkei1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCpGAXYwY-uYDw1HU05U-6qGyPYuILXgw4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>921235912575</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.wrbt.convention</string>
+	<key>PROJECT_ID</key>
+	<string>convention-app-7c7b3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>convention-app-7c7b3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:921235912575:ios:3c3e8e58afb340d6</string>
+	<key>DATABASE_URL</key>
+	<string>https://convention-app-7c7b3.firebaseio.com</string>
+</dict>
+</plist>

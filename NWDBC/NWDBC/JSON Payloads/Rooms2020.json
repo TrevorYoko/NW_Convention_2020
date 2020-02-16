@@ -1,0 +1,94 @@
+{
+    "rooms" : [
+               {
+               "id" : 1,
+               "name" : "Atrium",
+               "centerX": 850,
+               "centerY" : 530
+               },
+               {
+               "id" : 2,
+               "name" : "Ballroom Foyer"
+               },
+               {
+               "id" : 3,
+               "name" : "Dash Point"
+               },
+               {
+               "id" : 4,
+               "name" : "Alki I"
+               },
+               {
+               "id" : 5,
+               "name" : "Alki II"
+               },
+               {
+               "id" : 6,
+               "name" : "Alki III"
+               },
+               {
+               "id" : 7,
+               "name" : "Paradise"
+               },
+               {
+               "id" : 8,
+               "name" : "Redondo"
+               },
+               {
+               "id" : 9,
+               "name" : "Pinnacle"
+               },
+               {
+               "id" : 10,
+               "name" : "Rainier"
+               },
+               {
+               "id" : 11,
+               "name" : "Restaurant"
+               },
+               {
+               "id" : 12,
+               "name" : "Room 1201"
+               },
+               {
+               "id" : 13,
+               "name" : "Room 1203"
+               },
+               {
+               "id" : 14,
+               "name" : "Room 1207"
+               },
+               {
+               "id" : 15,
+               "name" : "Room 1208"
+               },
+               {
+               "id" : 16,
+               "name" : "Summit I"
+               },
+               {
+               "id" : 17,
+               "name" : "Summit II"
+               },
+               {
+                    "id" : 18,
+                    "name" : "Sunrise"
+               },
+               {
+                    "id" : 19,
+                    "name" : "Alki"
+               },
+               {
+                    "id" : 20,
+                    "name" : "Room 1204"
+               },
+               {
+                    "id" : 21,
+                    "name" : "Alki Foyer"
+               },
+               {
+                    "id" : 22,
+                    "name" : "Pick up in atrium/restaurant"
+               }
+               ]
+}
