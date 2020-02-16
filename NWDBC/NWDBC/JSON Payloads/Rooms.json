@@ -83,6 +83,10 @@
     {
       "id": 21,
       "name": "Water's Table (2nd Floor \"Lobby Level\")"
+    },
+    {
+      "id": 22,
+      "name": "Hotel Lobby"
     }
   ]
 }

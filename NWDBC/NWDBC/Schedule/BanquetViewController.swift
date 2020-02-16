@@ -122,7 +122,6 @@ class BanquetViewController: UITableViewController {
                 titleText = "Entertainment"
                 subtitleText = ""
                 break
-
         default:
             break
         }
